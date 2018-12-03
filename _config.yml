@@ -1,0 +1,10 @@
+include: ['dokumentit']
+
+defaults:
+  - scope:
+      path: ""
+    values: 
+      layout: "default"
+
+theme: minima
+# theme: jekyll-theme-leap-day
