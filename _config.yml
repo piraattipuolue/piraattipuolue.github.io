@@ -1,4 +1,4 @@
-include: ['dokumentit']
+# include: ['dokumentit']
 
 defaults:
   - scope:
@@ -8,3 +8,4 @@ defaults:
 
 theme: minima
 # theme: jekyll-theme-leap-day
+# theme: jekyll-theme-minimal

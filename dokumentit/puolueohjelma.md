@@ -9,15 +9,15 @@ Energia- ja ympäristöohjelma hyväksytty Piraattipuolueen syyskokouksessa 11.1
 
 Yhdenvertaisuusohjelma hyväksytty Piraattipuolueen syyskokouksessa 17.11.2018
 
-* [Periaateohjelma](#periaateohjelma)
-* [Yksilönvapausohjelma](#yksilonvapaus)
-* [Tietoyhteiskuntaohjelma](#tietoyhteiskunta)
-* [Talous-, kunta- ja perusturvaohjelma](#talous)
-* [Eurooppa-ohjelma](#eurooppa)
-* [Energia- ja ympäristöohjelma](#energiaymppa)
-* [Yhdenvertaisuusohjelma](#yhdenvertaisuus)
+* [Periaateohjelma](#piraattipuolueen-periaateohjelma)
+* [Yksilönvapausohjelma](#piraattipuolueen-yksilönvapausohjelma)
+* [Tietoyhteiskuntaohjelma](#piraattipuolueen-tietoyhteiskuntaohjelma)
+* [Talous-, kunta- ja perusturvaohjelma](#piraattipuolueen-talous--kunta--ja-perusturvaohjelma)
+* [Eurooppa-ohjelma](#piraattipuolueen-eurooppa-ohjelma)
+* [Energia- ja ympäristöohjelma](#piraattipuolueen-energia--ja-ympäristöohjelma)
+* [Yhdenvertaisuusohjelma](#piraattipuolueen-yhdenvertaisuusohjelma)
 
-<h1 id="periaateohjelma">Piraattipuolueen periaateohjelma</h1>
+# Piraattipuolueen periaateohjelma
 
 Politiikan lähtökohtana tulee olla yksilönvapaus ja yhdenvertaisuus. Jokaisella on oltava vapaus toimia haluamallaan tavalla, kunhan ei rajoita muiden vapauksia. Piraattipuolue vastustaa holhousyhteiskuntaa, jossa valtio puuttuu yksityiskohtaisesti jokaiseen elämän osa-alueeseen.
 
@@ -43,7 +43,7 @@ Puoluetta edustavat henkilöt sitoutuvat noudattamaan syrjimättömyyden periaat
 
 Piraattipuolueen listoilta valitut luottamushenkilöt sitoutuvat toimimaan erityisesti periaateohjelman mukaisesti.
 
-<h1 id="yksilonvapaus">Piraattipuolueen yksilönvapausohjelma </h1>
+# Piraattipuolueen yksilönvapausohjelma
 
 ## 1. Yksilönvapaudet lähtökohtana
 
@@ -51,7 +51,7 @@ Lain on taattava ihmisille mahdollisimman kattavat yksilönvapaudet, jotka mahdo
 
 ## 2. Sananvapaus, verkkoneutraliteetti ja yksityisyys
 
-<p><strong><a id="_x3eysn7iaejc" hidefocus="true" style="outline: none;"></a>Sananvapaus</strong></p>
+### 2.1 Sananvapaus
 
 Sananvapauden kunnioitus Suomessa ja Euroopassa ei ole vakaalla pohjalla. Tällä hetkellä kiinnitetään enemmän huomiota siihen, kuinka sananvapautta voitaisiin rajoittaa, kuin siihen, miten se turvattaisiin.
 
@@ -69,13 +69,13 @@ Valtion ei tule puuttua sananvapauteen esimerkiksi siveellisyyden, uskonnolliste
 
 Elokuvien ja videopelien ikärajojen asettamisen on oltava täysin vapaaehtoista. Pakollinen ikärajajärjestelmä haittaa ennen kaikkea pienten sisällöntuottajien työtä lisäämällä byrokratiataakkaa ja kuluja. Sen sijaan sisällöntuottajia tulisi kannustaa itsesääntelevän toiminnan lisäämiseen.
 
-<strong><a id="_je6irujebzi6" hidefocus="true" style="outline: none;"></a>Verkkoneutraliteetti</strong>
+### 2.2 Verkkoneutraliteetti
 
 Julkinen internet-yhteyttä tarjoava taho ei saa rajoittaa täysivaltaisen aikuisen verkkosisältöihin pääsyä, eikä yksityinen internet-yhteyttä tarjoava taho saa rajoittaa sitä kotirauhan piirissä. Palvelun tarjoajaa ei pidä asettaa vastuuseen palvelun käyttäjän tekemisistä. Linkittämistä pitää kohdella neutraalina aineistoon viittaamisena. Linkittäjää ei pidä asettaa vastuuseen linkin sisältämästä aineistosta eikä syyttää sen levittämisestä.
 
 Verkkoneutraliteetti tarkoittaa myös yksilöiden tasa-arvoista kohtelua verkossa eikä pitäisi teknisesti luoda ns. Internetin ohituskaistaa niille toimijoille, joilla on varaa maksaa liikenteen priorisoimisesta kaiken muun kustannuksella.
 
-<p><strong><a id="_62ue3e4rzac9" hidefocus="true" style="outline: none;"></a>Yksityisyys</strong></p>
+### 2.3 Yksityisyys
 
 Sähköisen viestinnän käyttö yksityiselämän, liiketalouden ja valtionhallinnon aloilla on lisääntynyt huimasti, ja Suomen yhteiskuntajärjestys ja kansallinen turvallisuus ovat entistä riippuvaisempia juuri sähköisen viestinnän suojasta.
 
@@ -93,13 +93,13 @@ EU:n tulee puolustaa viestintäsalaisuuden korkeaa tasoa.
 
 ## 3. Vapauksien lisääminen
 
-<p><strong><a id="_28zgoe368aou" hidefocus="true" style="outline: none;"></a>Periaatteet</strong></p>
+### 3.1 Periaatteet
 
 Valtion keskeisimpiä tehtäviä on turvata kansalaistensa vapaus: sen täytyy sekä suojella yksilöitä vapauden loukkauksilta että ylläpitää sellaisia olosuhteita, joissa tärkeiden vapaiden valintojen tekeminen on sekä mahdollista että mielekästä.
 
 Ihmisellä on oikeus vapauteen ja itsensä toteuttamiseen, kunhan henkilön toiminta ei uhkaa muiden vastaavia tunnustettuja oikeuksia. Vain sellaista toimintaa tulee rajoittaa, joka itsessään rajoittaa muiden oikeuksia tai joka vaarantaa oikeusvaltion toimintaa. Valtion ei tule tehdä elintapoja koskevia päätöksiä yksilöiden puolesta.
 
-<p><strong><a id="_46h61r18ztx4" hidefocus="true" style="outline: none;"></a>Huumeet ja päihteet</strong></p>
+### 3.2 Huumeet ja päihteet
 
 Huumausaineiden käyttö ja välitys koskettaa Suomessa päivittäin tuhansia ihmisiä suoraan ja välillisesti.
 
@@ -137,7 +137,7 @@ Ns. kovista huumeista riippuvaisille on pyrittävä tarjomaan terveydenhuoltoa s
 
 Psykedeelisillä ja empatogeenisillä aineilla on tutkimuksissa saatu lupaavia tuloksia mielenterveyshäiriöiden hoidossa, ja niiden terapiakäytön tutkimusta on syytä edistää.
 
-<p><strong><a id="_b9kqpd3judjv" hidefocus="true" style="outline: none;"></a>Rahapelit</strong></p>
+### 3.3 Rahapelit
 
 Internet mahdollistaa rahapelaamisen valtion rajojen ylitse. Rahapelimonopolia ei tule suojella kieltämällä nettipelejä ja pyrkimällä esimerkiksi suodattamaan niitä. Rahapelimonopoli tulee pikemminkin purkaa ja sallia vapaa kilpailu alalla.
 
@@ -145,7 +145,7 @@ Arpajaislain mukaan ulkomaiset rahapeliyhteisöt eivät voi harjoittaa Suomessa 
 
 Rahapelimonopoleja on perusteltu mm. kuluttajien suojelulla, sosiaalisten haittojen ehkäisyllä, hyväntekeväisyystoiminnan rahoittamisella sekä rikollisuuden ehkäisyllä.
 
-<p><strong><a id="_svdnhv4azp62" hidefocus="true" style="outline: none;"></a>Asevelvollisuus</strong></p>
+### 3.4 Asevelvollisuus
 
 Nykyinen asevelvollisuusjärjestelmä ei kohtele kansalaisia tasa-arvoisesti eikä miesten pakottaminen palvelukseen vankilan uhalla sovi yksilönvapautta kunnioittavaan valtioon. Siksi asepalvelus tulee muuttaa vapaaehtoiseksi molemmille sukupuolille.
 
@@ -155,37 +155,37 @@ Piraattipuolue kannattaa siirtymistä sukupuolineutraaleihin kutsuntoihin ja var
 
 Tuomioistuimistosta tulee poistaa sotilasjäsenet ja kaikki Puolustusvoimia koskevat oikeudenkäynnit tulee järjestää siviilioikeudenkäynteinä rauhan aikana.
 
-<p><strong><a id="_kpuhybhpmsik" hidefocus="true" style="outline: none;"></a>Rahankeräys</strong></p>
+### 3.5 Rahankeräys
 
 Yksilön perusoikeuksiin tulee kuulua oikeus kerätä rahaa erilaisiin tarkoituksiin, oli sitten kyse joukkorahoituksesta, yleishyödyllisen toiminnan tukemisesta, niin kutsutuista aikapankeista taikka kerjäämisestä. Rahankeräyslakia tulee uudistaa radikaalisti. Lähtökohtaisesti kerääminen olisi aina sallittua ja siihen puututtaisiin ainoastaan jälkikäteen, mikäli on syytä epäillä rikollista toimintaa. Lain tulee kuitenkin velvoittaa ilmoittamaan muun muassa keräyksen laajuudesta, tavoitteista sekä keräystavasta silloin kun keräyksen tuoton odotetaan ylittävän tietyn rajan. Tällöin vaaditaan myös tarkka kirjanpito.
 
-<p><strong><a id="_o58bvrgn7vmf" hidefocus="true" style="outline: none;"></a>Hyvä kuolema</strong></p>
+### 3.6 Hyvä kuolema
 
 Yksilöllä tulee olla oikeus avustettuun kuolemaan sellaisissa tilanteissa, joissa terveydentila estää mielekkään elämän elämisen ja parantuminen on käytännössä lääketieteellinen mahdottomuus. Päätöksen on oltava selkeästi yksilön oma, ja sitä tulee tukea lääkärinlausunto terveydentilasta. Aloite ei saa tulla terveydenhuollosta. Avustettu kuolema tulee sallia myös aivotoimintaa vakavasti heikentävien sairauksien ja vammojen kohdalla, mikäli henkilö on tehnyt asiaa koskevan hoitotestamentin ollessaan vielä terve.
 
 Erityisesti kohtuuttomat kivut ja vaivat oikeuttaisivat avustetun kuoleman saamisen. Avustetun kuoleman mahdollisuus ei missään nimessä vähennä tarvetta parantaa saattohoitoa ja kehittää parempaa kivunlievitystä.
 
-<p><strong><a id="_yfaant2hj7wd" hidefocus="true" style="outline: none;"></a>Seksuaalipalvelut</strong></p>
+### 3.7 Seksuaalipalvelut
 
 Kehollinen itsemääräämisoikeus kattaa seksuaalisuuden harjoittamisen vapaasti silloinkin kun on kyse maksullisten palveluiden myymisestä tai ostamisesta. Seksuaalipalveluiden myynti kuuluu yksilönvapauksien piiriin ja kieltolaki haittaa alan turvallisuutta sekä edistää harmaata taloutta.
 
-<p><strong><a id="_lokzf8ts8jev" hidefocus="true" style="outline: none;"></a>Liikkeiden aukioloajat</strong></p>
+### 3.8 Liikkeiden aukioloajat
 
 Valtion ei tule säädellä ravintoloiden tai muiden palveluiden aukioloaikoja. Yrittäjien tulee itse saada määrittää ne kannattavuuden ja työvoiman saatavuuden perusteella. Yrittäjillä tulee olla oikeus vastata kuluttajien tarpeisiin kellonajasta riippumatta. Järjestelystä hyötyvät kaikki: yrittäjät uusien ansaintamahdollisuuksien myötä, kuluttajat palveluiden saatavuuden paranemisen vuoksi ja työntekijät lisääntyvien työtuntien myötä. Yksittäisen ravintolan aukioloaikaa voidaan rajoittaa silloin, jos siitä koituu meluhaittaa naapuruston asukkaille, mutta siitä päättäköön kunta tapauskohtaisesti, ei valtio kaikkien puolesta.
 
-<p><strong><a id="_kgy6ojgr3mm0" hidefocus="true" style="outline: none;"></a>Liiketoiminnan harjoittamisen vapauttaminen</strong></p>
+### 3.9 Liiketoiminnan harjoittamisen vapauttaminen
 
 Elinkeinolupien (esim. taksit ja apteekit) tarveharkinnasta ja lukumäärärajoituksista on luovuttava ja alat avattava vapaalle kilpailulle. Elinkeinolupa tulee myöntää jokaiselle jolla on riittävä pätevyys alan yrityksen pyörittämiseen. Samalla taksien hintasäännöstelystä tulee luopua, mutta takseilta voidaan vaatia hintojen pitämistä selkeästi näkyvillä. Liikenneyhtiöille ei myöskään tule myöntää alueellisia monopoleja. Uudenlaisten taksi- ja kimppakyytiliiketoimintamallien toiminta tulee sallia ja lainsäädännölliset esteet poistaa.
 
-<p><strong><a id="_3we8vhprynvr" hidefocus="true" style="outline: none;"></a>Yhdistymisvapaus</strong></p>
+### 3.10 Yhdistymisvapaus
 
 Yhdistysten sääntömuutoksiin liittyvää käytäntöä on muutettava. On yhdistymisvapautta loukkaavaa, että säännöt pitää hyväksyttää virkamiehillä, jotka voivat hylätä ne käytännössä mielivaltaisin perustein. Sääntöjen pitää tulla voimaan heti kun yhdistys on ne hyväksynyt. Sääntömuutos tulee jatkossa vain ilmoittaa Patentti- ja rekisterihallitukselle, joka puuttuu vain ilmeisiin lainvastaisuuksiin.
 
-<p><strong><a id="_5873a7h2cgq1" hidefocus="true" style="outline: none;"></a>Vaihtoehtovaluutat</strong></p>
+### 3.11 Vaihtoehtovaluutat
 
 Valtion ei pidä estää erilaisten verkkorahojen ja vaihtoehtovaluutoiden käyttöönottoa.
 
-<p><strong><a id="_e17d24k8rh08" hidefocus="true" style="outline: none;"></a>Yksityisyyden suoja liikenteessä</strong></p>
+### 3.12 Yksityisyyden suoja liikenteessä
 
 Yksityisyyden suojan tulee ulottua myös kansalaisen liikkumiseen. Kansalaisten automaattinen seuraaminen valtion taholta on tapahduttava vain tuomioistuimen päätöksellä.
 
@@ -195,7 +195,7 @@ Lailla ja muilla toimilla on turvattava kansalaisille mielekäs mahdollisuus ole
 
 ## 4. Yhdenvertaisuus
 
-<p><strong><a id="_tjjgnn2vtklr" hidefocus="true" style="outline: none;"></a>Yhdenvertaisuus lain edessä</strong></p>
+### 4.1 Yhdenvertaisuus lain edessä
 
 Yhteiskunnan tulee kohdella kaikkia kansalaisia ja kaikkia asukkaita yhdenvertaisesti. Tämä tarkoittaa sitä, että lainsäädäntö ei erottele täysivaltaisia ihmisiä. Lainsäädännön tehtäviin ei kuulu eriarvoistaa kansalaisia, vaan kaikkien tulee olla yhdenvertaisia lain edessä. Tällä hetkellä näin ei ole, vaan ihmisiä eriarvoistetaan perustuen ryhmiin, joihin hänet katsotaan kuuluvaksi. Näitä ryhmiä ovat esimerkiksi sukupuoli, seksuaalinen suuntautuminen ja vakaumus.
 
@@ -203,7 +203,7 @@ Kansalaisten yhdenvertaisuus voidaan toteuttaa mielekkäästi poistamalla ihmist
 
 Vähemmistö- ja sukupuolikiintiöt eivät ole perusteltu keino viedä yhteiskuntaa tasa-arvoisemmaksi, vaan usein ne pikemminkin ylläpitävät syrjiviä asenteita ja estävät tasa-arvon toteutumisen.
 
-<p><strong><a id="_qism3a7apd7b" hidefocus="true" style="outline: none;"></a>Seksuaalisuus ja avioliitto</strong></p>
+### 4.2 Seksuaalisuus ja avioliitto
 
 Seksuaalinen identiteetti on ollut kautta historian oleellinen syrjintää ja ennakkoluuloja nostattava tekijä.
 
@@ -211,17 +211,19 @@ Kulttuurilliset ennakkoluulot ja lainsäädännöllinen eriarvoisuus kulkevat k�
 
 Sukupuolisidonnainen avioliittolaki ja siihen liittyvät oikeudet saattavat seksuaalivähemmistöjä eriarvoiseen asemaan muuhun väestöön nähden. Kaikkia rekisteröityjä parisuhteita, mukaanlukien avioliitto, tulee käsitellä yhdenvertaisina ”rekisteröityinä suhteina” laissa. Jos näin ei ole, avioliittolain tulee olla sukupuolineutraali.
 
-Historiallisesti ja uskonnollisesti värittyneen avioliittokäsitteen voi jättää lainsäädännön ulkopuolelle yhdistyksille ja kirkollisille instituutioille. Myös useamman kuin kahden henkilön rekisteröidyt suhteet tulee sallia.</p><p>Avoliitto-käsite tulee poistaa lainsäädännöstä.
+Historiallisesti ja uskonnollisesti värittyneen avioliittokäsitteen voi jättää lainsäädännön ulkopuolelle yhdistyksille ja kirkollisille instituutioille. Myös useamman kuin kahden henkilön rekisteröidyt suhteet tulee sallia.
+
+Avoliitto-käsite tulee poistaa lainsäädännöstä.
 
 Steriloinnin ikäraja tulee laskea 18 vuoteen.
 
-<p><strong><a id="_nrnekfcu9yuh" hidefocus="true" style="outline: none;"></a>Sukupuolet</strong></p>
+### 4.3 Sukupuolet
 
 Kaksinapainen sukupuolen luokittelu kuuluu menneisyyteen. Julkisen vallan on muutettava toimintatapansa niin, että se kunnioittaa sekä biologista sukupuolten kirjoa että sukupuoli-identiteettien moninaisuutta. On päivitettävä kaksinapaisuuden olettavat julkiset dokumentit ja esimerkiksi opetusmateriaalit vastaamaan nykyaikaista ihmiskäsitystä.
 
 Tavoitteena on juridisen sukupuolen lakkauttaminen kokonaan. Valtion ei tarvitse tietää yksilön sukupuolta. Minkäälaista sukupuolitietoa ei tule merkitä mihinkään rekisteriin, ellei yksilö itse niin halua. Henkilötunnusjärjestelmän tulee olla sukupuolesta riippumaton. Sukupuolen korjaushoidot on tehtävä käyttäen lähtökohtana yksilön omaa kokemusta ja arviointia, ja niihin liittyvät ihmisoikeusloukkaukset, kuten sterilisaatio- tai naimattomuusvaatimus, on korjattava välittömästi. Intersukupuolisten lasten tarpeeton, kaksinapaisuuden ajatukseen perustuva kirurgia lopetetaan.
 
-<p><strong><a id="_hvxmaru99lah" hidefocus="true" style="outline: none;"></a>Katsomus</strong></p>
+### 4.4 Katsomus
 
 Suomessa uskonnolliset ennakkoluulot ovat yhä merkittävä ongelma, joka vaikuttaa eri väestönryhmien arkeen. Valtion on kunnioitettava uskonnonvapautta. Valtio ei saa estää tai suosia mitään uskontoja. Piraattipuolue kannattaa kirkon ja valtion erottamista.
 
@@ -229,7 +231,7 @@ Vanhemmilla on luonnollisesti merkittävä rooli lapsen maailmankatsomuksen muod
 
 Kirkkoja ja uskonnollisia yhdyskuntia on kohdeltava liittymisen ja eroamisen osalta samalla tavalla kuin tavallisia yhdistyksiä. Pienten lasten liittämisestä virallisiksi jäseniksi kirkkoihin ja uskonnollisiin yhdyskuntiin on luovuttava. Tämä ei estä symbolisten kaste- ja vastaavien rituaalien suorittamista. Uskonnonvapaus ei merkitse, että uskonnon ja omantunnon vapauteen vedoten voitaisiin loukata ihmisoikeuksia tai ihmisarvoa. Tämän vuoksi esimerkiksi lasten rituaalinen ympärileikkaus on kriminalisoitava.
 
-<p><strong><a id="_k5812so6gh1n" hidefocus="true" style="outline: none;"></a>Etnisyys</strong></p>
+### 4.5 Etnisyys
 
 Yhteiskunnallinen ennakkoluulo toimii tavallisesti itseään ruokkivana kiertokulkuna. Kierteeseen ei kuitenkaan tule puuttua sananvapautta loukkaamalla vaan luomalla sellaisia rakenteita ja ohjelmia jotka auttavat väestöryhmiä ymmärtämään toisiaan ja pääsemään eroon haitallisista ennakkoluuloista.
 
@@ -243,17 +245,17 @@ Monissa erikoisosaamista vaatineissa oikeudenkäynneissä puutteellinen tekniste
 
 Suomeen on perustettava eduskunnasta itsenäinen perustuslakituomioistuin, joka tulkitsee ja valvoo muiden lakien perustuslaillisuutta. Se ei kuitenkaan korvaa eduskunnan perustuslakivaliokuntaa, joka edelleen valvoo lakien perustuslaillisuutta lain säätämisvaiheessa. Perustuslainmukaisuutta tulee tutkia kaikissa tuomioistuinkäsittelyissä.
 
-<p><strong><a id="_lejfg6y2qt1b" hidefocus="true" style="outline: none;"></a>Maahanmuutto</strong></p>
+### 5.1 Maahanmuutto
 
 Tärkeimpiä keinoja auttaa maahanmuuttajia pääsemään yhdenvertaiseen asemaan muun muassa työmarkkinoilla on tehokas suomen kielen opetus.
 
 Työperäistä maahanmuuttoa tulee helpottaa luopumalla EU/ETA-maiden ulkopuolelta tulevan työvoiman tarveharkinnasta.
 
-<h1 id="tietoyhteiskunta">Piraattipuolueen tietoyhteiskuntaohjelma</h1>
+# Piraattipuolueen tietoyhteiskuntaohjelma
 
 ## 1. Tekijänoikeudet ja patentit
 
-<p><strong><a id="_quz1sukaktff" hidefocus="true" style="outline: none;"></a>Tekijänoikeudet</strong></p>
+### 1.1 Tekijänoikeudet
 
 Aineettomiin hyödykkeisiin kohdistetaan kohtuuttomia keinotekoisia rajoituksia oletettujen taloudellisten etujen suojelemiseksi kuluttajansuojan, kansalaisoikeuksien ja yhteiskunnan voimavarojen kustannuksella. Tekijänoikeuslain tulisi kannustaa uuden kulttuurin luomiseen, eikä hankaloittaa sen syntyä.
 
@@ -277,17 +279,19 @@ Joukkolisensoinnista on jo suunnitteilla lainsäädäntöä, jossa mediayrityksi
 
 Muut muutokset, kuten suoja-ajan olennainen lyhentäminen, edellyttävät maailmanlaajuista tekijänoikeussopimusten muuttamista. Piraattipuolue ajaa yhdessä muiden maiden Piraattipuolueiden kanssa kansainvälisen tekijänoikeuslainsäädännön muuttamista.
 
-<p><strong><a id="_m7uqurxp1apz" hidefocus="true" style="outline: none;"></a>Patentit</strong></p>
+### 1.2 Patentit
 
 Nykyiselle patenttijärjestelmälle ei ole perusteita nyky-yhteiskunnassa, joten se tulee lakkauttaa. Patentit eivät enää suojaa yksittäisen keksijän luomusta tai toimeentuloa, vaan niitä käytetään ennemminkin pienyrittäjien toiminnan tukahduttamiseen ja kehityksen estämiseen. Turhan patentin myöntäminen vaikeuttaa muiden kehitystyötä ja heikentää kilpailua. Patentit estävät optimaalisten teknisten ratkaisujen tekemistä uusissa tuotteissa.
 
-Lääkepatentit tappavat kehitysmaissa päivittäin lisensoinnin kalleuden vuoksi. Ihmisten terveyttä ja elintasoa parantavat keksinnöt lääkkeiden kehittelyssä uhkaavat patenttien vuoksi jäädä hyödyntämättä. Piraattipuolueilla on järkevä ja rakentava vaihtoehto lääkepatenteille, joka, paitsi ratkaisisi lääkepatenttien ongelmat, myös antaisi enemmän rahaa lääketutkimukseen leikaten julkisen sektorin lääkekustannukset puoleen. Haluamme keskustella tästä Euroopan tasolla.</p><p>Myöskään geenipatentteja ei tulevaisuudessakaan tule tunnustaa.
+Lääkepatentit tappavat kehitysmaissa päivittäin lisensoinnin kalleuden vuoksi. Ihmisten terveyttä ja elintasoa parantavat keksinnöt lääkkeiden kehittelyssä uhkaavat patenttien vuoksi jäädä hyödyntämättä. Piraattipuolueilla on järkevä ja rakentava vaihtoehto lääkepatenteille, joka, paitsi ratkaisisi lääkepatenttien ongelmat, myös antaisi enemmän rahaa lääketutkimukseen leikaten julkisen sektorin lääkekustannukset puoleen. Haluamme keskustella tästä Euroopan tasolla.
+
+Myöskään geenipatentteja ei tulevaisuudessakaan tule tunnustaa.
 
 Piraattipuolueen ajaman uudistetun tekijänoikeusjärjestelmän ohjelmistokehittäjille tarjoama suoja on riittävä.
 
 ## 2. Avoin hallinto ja demokratian kehittäminen
 
-<p><strong><a id="_n4f3x32zf211" hidefocus="true" style="outline: none;"></a>Hallinnon avoimuus</strong></p>
+### 2.1 Hallinnon avoimuus
 
 Hyvän hallinnon perustana ovat avoimuus, tasapuolisuus ja riippumattomuus. Valtiot keräävät kansalaisista yhä enemmän tietoa, mutta toimivat samaan aikaan itse usein suljettujen ovien takana. Suljetut ovet on avattava ja kansalaisten sekä kansalaisjärjestöjen mielipiteitä on kuultava entistä paremmin jo lain valmisteluvaiheessa. Tietotekniikka tarjoaa erinomaiset mahdollisuudet laskea kynnystä osallistua päätöksentekoon.
 
@@ -299,13 +303,13 @@ Kansalaisten oikeusturvasta täytyy pitää kiinni myös silloin kun he paljasta
 
 Suojelupoliisin tulee jälkikäteen ilmoittaa vakoilusta vakoilun kohteelle.
 
-<p><strong><a id="_38003dx6en53" hidefocus="true" style="outline: none;"></a>Byrokratian vähentäminen</strong></p>
+### 2.2 Byrokratian vähentäminen
 
 Liiallinen byrokratia vaikeuttaa järjestelmän ymmärtämistä sekä aiheuttaa yhteiskunnalle ja yksilölle taloudellisia tappioita. Järjestelmän toiminta ja avun saaminen on tärkeämpää kuin byrokraattinen valvonta ja väärinkäytösten ehkäisy. Julkishallinnon tulee lisätä selkokielen käyttöä viestinnässään.
 
 Kesäaikaan ja siitä pois siirtyminen aiheuttaa lukuisten teknisten ongelmien ja siirroista johtuvien sekaannusten lisäksi vaikeuksia myös unirytmien sovittamisessa. Koko järjestely on kyseenalainen ja sen sijaan tulisi pyrkiä esimerkiksi työaikojen joustavuuden kasvattamiseen. Piraattipuolue haluaa poistaa kesäaikajärjestelmän käytöstä EU-tasolla, jossa nykyinen Suomen käyttämä järjestelmä on määritetty. Kesäajasta luopumisen yhteydessä Suomi tulisi siirtää Keski-Euroopan aikaan.
 
-<p><strong><a id="_imkx3s8xu4zt" hidefocus="true" style="outline: none;"></a>Tasapuolinen demokratia</strong></p>
+### 2.3 Tasapuolinen demokratia
 
 Puoluetukea maksetaan nykyään käytännössä tietty määrä kutakin kansanedustajapaikkaa kohti. Piraattipuolue haluaa muuttaa puoluetuen sellaiseksi, että nykyinen puoluetuki jaettaisiin kaikkien eduskuntavaaleissa yli 5000 ääntä saaneiden puolueiden kesken suhteessa äänimäärään. Tällöin yksikään ääni ei menisi hukkaan vaan parantaisi vähintään puolueen taloudellista asemaa.
 
@@ -317,7 +321,7 @@ Piraattipuolue kannattaa äänioikeusikärajan alentamista 16 vuoteen kaikissa v
 
 Europarlamentti-, eduskunta- ja kuntavaaleissa tulee siirtyä käyttämään siirtoäänivaalitapaa. Siinä äänestäjät voivat merkitä äänestyslippuun useampia ehdokkaita suosituimmuusjärjestyksessä.
 
-<p><strong><a id="_i3oq969gdoq8" hidefocus="true" style="outline: none;"></a>Osallistava demokratia</strong></p>
+### 2.4 Osallistava demokratia
 
 Kansalaisilla tulee olla mahdollisuus saada riittävästi tietoa edustajiensa tekemistä poliittisista päätöksistä ja syistä jotka ovat johtaneet ratkaisuun. Kehittyneen viestintäteknologian mahdollistamana myös maamme demokraattista järjestelmää on kehitettävä enemmän vuorovaikutusta suosivaksi, osallistavaksi demokratiaksi. Kansalaisilla tulee olla paremmat mahdollisuudet vaatia lisää tietoa käsiteltävistä asioista ja päätöksistä, sekä vaikuttaa itse päätöksentekoon kansalaisaloitteiden ja kansanäänestysten muodoissa.
 
@@ -337,15 +341,15 @@ Piraattipuolue katsoo ettei verkkoäänestystä voi tällä hetkellä toteuttaa 
 
 ## 3. Ohjelmistohankkeet
 
-<p><strong><a id="_ji1rr74090ff" hidefocus="true" style="outline: none;"></a>Avoimuus ohjelmistohankkeissa</strong></p>
+### 3.1 Avoimuus ohjelmistohankkeissa
 
 Piraattipuolue haluaa kannustaa avoimien ja vapaiden ohjelmistojen käyttöönottoon paitsi julkisella sektorilla, myös yrityksissä ja kotitalouksissa. Merkittävimpinä syinä ovat avoimien ohjelmistojen taloudellisuus, joustavuus järjestelmien jatkokehityksessä ja tietoturvan parempi auditointi.
 
-<p><strong><a id="_qv5f8npiadng" hidefocus="true" style="outline: none;"></a>Avoimet rajapinnat</strong></p>
+### 3.2 Avoimet rajapinnat
 
 Julkishallinnon tulee käyttää omissa palveluissaan ja viestinnässään ainoastaan avoimiin standardeihin perustuvia rajapintoja ja tiedostomuotoja. Tämä ei estä suljettujen ohjelmistojen käyttöä, mutta mahdollistaa yhteistoiminnan muiden ohjelmistojen kanssa. Lisäksi se mahdollistaa pitkäaikaisen tuen myös alkuperäisen ohjelmistotoimittajan lopettaessa tuotteen tukemisen.
 
-<p><strong><a id="_hzzjbwdjfk5j" hidefocus="true" style="outline: none;"></a>Mittatilaustyönä tehtävät ohjelmistohankkeet</strong></p>
+### 3.3 Mittatilaustyönä tehtävät ohjelmistohankkeet
 
 Avoin ohjelmistokehitys tarkoittaa hankkeiden valmistelua ja toteutusta siten, että kuka tahansa voi seurata kehitystä ja periaatteessa myös osallistua siihen heti alusta alkaen. Malli eroaa radikaalisti julkishallinnon nykyisten ohjelmistotoimittajien suosimasta mallista, jossa edes tilaajalla ei ole pääsyä kehitysprosessiin ja toimittaja pystyy estämään kilpailijoidensa osallistumisen liike- ja ammattisalaisuuksiin vetoamalla. Tällöin järjestelmään ei voida tilata muutoksia tai jatkokehitystä muualta kuin alkuperäiseltä toimittajalta.
 
@@ -353,17 +357,17 @@ Piraattipuolue pitää ehdottoman tärkeänä paitsi julkisrahoitteisten ohjelma
 
 ## 4. Tieto ja tutkimus
 
-<p><strong><a id="_xf1bdmz8yv24" hidefocus="true" style="outline: none;"></a>Kansalaisten maksama tieto vapaaksi</strong></p>
+### 4.1 Kansalaisten maksama tieto vapaaksi
 
 Verovaroilla luotujen teosten ja tieteellisen tutkimustiedon tulee olla kaikkien vapaasti käytettävissä.
 
 Internet on avannut entistä laajemmat mahdollisuudet olemassaolevan tiedon käyttöön. Varsinkin verovaroilla tuotettu tieto on jo kertaalleen kansalaisten maksamaa ja siten kuuluu luonnollisesti kaikkien hyödynnettäväksi. Viranomaisten tuottaman tiedon ja julkisrahoitteisten tutkimustulosten ympärille voisi syntyä nykyistä huomattavasti kukoistavampaa liiketoimintaa, mikäli tiedon käyttöä vapautettaisiin.
 
-<p><strong><a id="_8l8rkpue6fxs" hidefocus="true" style="outline: none;"></a>Avoin tieto ja tutkimus</strong></p>
+### 4.2 Avoin tieto ja tutkimus
 
 Tekijänoikeuksien ja patenttien aiheuttamat rajoitukset haittaavat tieteellisen kirjallisuuden ja tutkimustulosten hyödyntämistä. Yhteiskunta ei kehity tietoa panttaamalla. Jo olemassaolevaa tietoa on voitava käyttää uusien tutkimusten apuna tutkimusten tehostamiseksi ja turhien resurssien haaskauksen estämiseksi. Tuotetun tiedon pitää olla sellaisessa muodossa, että se on tulevaisuudessakin käytettävissä. Tämä onnistuu parhaiten avoimia ohjelmistoja ja rajapintoja käyttämällä.
 
-<p><strong><a id="_fh94gkbav5t1" hidefocus="true" style="outline: none;"></a>Tutkimuksen sekä taiteen vapaus ja riippumattomuus</strong></p>
+### 4.3 Tutkimuksen sekä taiteen vapaus ja riippumattomuus
 
 Julkisten tahojen harjoittaman tieteellisen tutkimuksen on oltava vapaata ja riippumatonta. Valtio ja yksityiset rahoittajat eivät saa käyttää rahoitusta epäasiallisena painostuskeinona tutkimusohjelmien, -suuntauksien ja -kohteiden valinnassa tai tulosten julkaisemisessa. Julkinen tutkimusrahoitus pitää aina myöntää vertaisarvioidun ja avoimen kilpailutuksen perusteella. Muunlaista julkista tutkimusrahoitusta ei tule myöntää.
 
@@ -375,7 +379,7 @@ Valtion taiderahoituksessa ei pidä asettaa taiteelle ideologisia tai esteettisi
 
 ## 5. Opetus tietoyhteiskunnassa
 
-<p><strong><a id="_y4tbam53crtm" hidefocus="true" style="outline: none;"></a>Yleisperiaatteet opetuksessa</strong></p>
+### 5.1 Yleisperiaatteet opetuksessa
 
 Opetussuunnitelmia ja opetusmenetelmiä tulee jatkuvasti arvioida ja ajanmukaistaa. Tämä ei tarkoita ainoastaan teknologisia muutoksia ja verkkomateriaalien hyödyntämistä, vaan myös nykyistä enemmän oman ajattelun ja tiedonhaun painottamista, jolloin asioiden ulkoaopettelu vähenee. Samalla painopiste siirtyy kokeisiin pänttäämisestä syvällisempään ymmärtämiseen.
 
@@ -387,7 +391,7 @@ Oppisisällöt eivät saa vääristellä tieteellistä tutkimustietoa. Uskonnoll
 
 Opiskelun oppimateriaaleineen tulee olla maksutonta kaikilla oppiasteilla julkisissa oppilaitoksissa, myös korkeakouluissa. Tästä syystä opetuksen tukena tulee suosia ensisijaisesti avointa sisältöä.
 
-<p><strong><a id="_uzog2slzgft7" hidefocus="true" style="outline: none;"></a>Muutokset oppisisältöihin</strong></p>
+### 5.2 Muutokset oppisisältöihin
 
 Kouluissa opetellaan taitoja, joiksi perinteisesti on mielletty esimerkiksi kielitaito ja taitoaineet. Myös ajattelu pitäisi nähdä taitona, jota on syytä opettaa ja kehittää. Lapset pohtivat usein filosofisluonteisia kysymyksiä, ja tätä luovaa ajattelua tulisi koulussa ruokkia. Filosofia eli ajattelutaito on otettava kouluihin oppiaineeksi alaluokilta lähtien.
 
@@ -403,7 +407,7 @@ Uskonto ja elämänkatsomustieto poistetaan kouluaineiden joukosta. Historiasta 
 
 Oppilaille tulee tarjota mahdollisuus suorittaa myös peruskoulun oppimäärä nopeutetussa tahdissa. Koulun ulkopuolella tapahtuvan oppimisen tunnistamista ja hyödyntämistä koulun tarjoaman opetuksen tukena tulee jatkossakin kehittää määrätietoisesti.
 
-<h1 id="talous">Piraattipuolueen talous-, kunta- ja perusturvaohjelma</h1>
+# Piraattipuolueen talous-, kunta- ja perusturvaohjelma
 
 ## 1. Taloudellinen vakaus ja kasvu
 
@@ -441,9 +445,11 @@ On estettävä tilanteet, joissa suurin osa kunnan budjettivallasta on tosiasias
 
 Ei ole yhtä oikeaa tapaa tuottaa palveluja. Yksityistäminen, ulkoistaminen kilpailutuksen tai palvelusetelien kautta ja kokonaan julkisesti tuotettu palvelu ovat kaikki varteenotettavia vaihtoehtoja. Tiedon ja kokemusten jakaminen sekä monimuotoisuuden salliminen ovat nykyaikaiseen yhteiskuntaan sopiva toimintatapa.
 
-## 4. Ennaltaehkäisy painopisteeksi</h2>
+## 4. Ennaltaehkäisy painopisteeksi
 
-Kaiken terveydenhoito- ja sosiaalityön lähtökohtana on oltava ennaltaehkäisevä hoito. Siihen tulee suhtautua investointina, jonka avulla terveys- ja sosiaalihuollon kustannuksia saadaan pidemmällä aikajänteellä hillittyä. Ennaltaehkäisyn avulla ehkäistään haasteellisia terveydellisiä ja sosiaalisia tilanteita, jotka pitkittyessään tuottavat niin taloudellisia kuin inhimillisiä tappioita.</p><p>Osana ennaltaehkäisyä ovat laadukkaat neuvolapalvelut sekä peruskoulun oppilashuoltopalvelut.
+Kaiken terveydenhoito- ja sosiaalityön lähtökohtana on oltava ennaltaehkäisevä hoito. Siihen tulee suhtautua investointina, jonka avulla terveys- ja sosiaalihuollon kustannuksia saadaan pidemmällä aikajänteellä hillittyä. Ennaltaehkäisyn avulla ehkäistään haasteellisia terveydellisiä ja sosiaalisia tilanteita, jotka pitkittyessään tuottavat niin taloudellisia kuin inhimillisiä tappioita.
+
+Osana ennaltaehkäisyä ovat laadukkaat neuvolapalvelut sekä peruskoulun oppilashuoltopalvelut.
 
 Alle 25-vuotiaille nuorille tulee tarjota ilmainen ehkäisy estämään niin sukupuolitauteja kuin ei-toivottuja raskauksia. Kuntien tarjoamat ilmaiset ehkäisyvälineet eivät voi perustua pelkästään nuorten naisten hormoniehkäisyyn, vaan nuorille pitää tarjota myös kondomeja. Hormonaaliset ehkäisymuodot eivät sovi kaikille, eivätkä ne ehkäise sukupuolitauteja.
 
@@ -473,39 +479,39 @@ Kaupunkirakennetta tulee kehittää viihtyisään ja ympäristöystävällisemp�
 
 Julkisissa rakennushankkeissa kaikkien oikeuksien pitää siirtyä tilaajalle.
 
-<h1 id="eurooppa">Piraattipuolueen Eurooppa-ohjelma</h1>
+# Piraattipuolueen Eurooppa-ohjelma
 
 ## 1. Kansallisvaltioiden ja EU:n suhde
 
-<p><strong><a id="_qhqf3hbkemlg" hidefocus="true" style="outline: none;"></a>EU on yksi päätöksentekotaso muiden joukossa</strong></p>
+### 1.1 EU on yksi päätöksentekotaso muiden joukossa
 
 Millään hallinnon tasolla ei ole lähtökohtaista yksinoikeutta päätöksentekoon. Lähtökohtaisesti päätösvalta on yksilöillä. Päätösvalta, joka ei ole yksilöillä, tulee olla sillä taholla, joka pystyy kyseessä olevassa asiassa parhaiten huolehtimaan yksilönvapauksien ja perusoikeuksien turvaamisesta. Piraattipuolue katsoo, että Euroopan unioni on kunnallis- ja aluehallinnon sekä kansallisvaltioiden ohella yksi tällainen taho, jolla voi olla päätösvaltaa eri asioissa.
 
 Eurooppa ei ole yhtä kuin EU, ja eurooppalaista yhteistyötä tapahtuu paljon unionista riippumatta. Tästä hyvänä esimerkkinä on Euroopan ihmistuomioistuin. Euroopan unionista erillistä eurooppalaista yhteistyötä sekä yhteistyöelimiä tulee korostaa ja tukea unionin rinnalla.
 
-<p><strong><a id="_hnyn94hffxx9" hidefocus="true" style="outline: none;"></a>EU vastapainona suurvalloille ja ylikansallisille yrityksille</strong></p>
+### 1.2 EU vastapainona suurvalloille ja ylikansallisille yrityksille
 
 EU:ta tarvitaan esimerkiksi vastapainoksi Yhdysvalloille, Kiinalle ja taloudelliselta mahdiltaan monia valtioita suuremmille suuryrityksille ja niiden yhteenliittymille. EU:n tulee esimerkiksi huolehtia siitä, että EU:n alueella toimivat yritykset noudattavat tietosuojaa, yksityisyyttä, sananvapautta, työntekijöiden oikeuksia ja muita perusoikeuksia siten kuin EU-maat ovat Euroopan ihmisoikeussopimuksessa niihin sitoutuneet. EU:n tulee myös ehkäistä ja ratkaista kansallisvaltioiden rajat ylittäviä terveys- ja ympäristöongelmia. EU:n tulee lisäksi huolehtia nykyistä tiukemmin siitä, että sen jäsenvaltioissa ei tapahdu ihmisoikeusrikkomuksia eikä demokraattisten periaatteiden loukkauksia.
 
-<p><strong><a id="_gk3wfg8oogds" hidefocus="true" style="outline: none;"></a>EU:n valtaoikeuksia tulkittava suppeasti</strong></p>
+### 1.3 EU:n valtaoikeuksia tulkittava suppeasti
 
 Piraattipuolue pitää lähtökohtaisesti hyvänä tavoitteena, että EU:ssa vallitsee ihmisten, tavaroiden, palveluiden ja pääomien vapaa liikkuvuus. Tämä merkitsee sitä, että näitä vapauksia koskevista kaikkia jäsenvaltioita koskevista asioista tulee voida tehdä päätöksiä EU-tasolla. Tämä ei kuitenkaan tarkoita sitä, että EU:lla olisi oikeus puuttua kaikkiin asioihin, jotka välillisesti liittyvät vaikkapa kaupankäyntiin. EU:n toimivaltuuksia on tulkittava supistavasti siten, että kaikkien valtaoikeuksien, joita ei ole yksiselitteisesti määritelty EU:lle, tulee jäädä kansallisvaltioille tai paikallistasolle.
 
-<p><strong><a id="_57hujg5visp2" hidefocus="true" style="outline: none;"></a>Vapaus kokeilla erilaisia käytäntöjä</strong></p>
+### 1.4 Vapaus kokeilla erilaisia käytäntöjä
 
 Jäsenvaltioilla pitää olla mahdollisuus kokeilla erilaisia käytäntöjä siten, että parhaimmat käytännöt voisivat levitä vapaaehtoisesti maasta toiseen. EU:n tulee säätää vähimmäistasot yksilönvapauksien, perusoikeuksien, terveyden, turvallisuuden ja ympäristön suojelemiseksi. Jäsenvaltioille pitää kuitenkin jättää merkittävää kansallista liikkumavaraa, joka mahdollistaa erilaisten käytäntöjen kokeilemisen. EU:n tunnuslause ”moninaisuudessaan yhtenäinen” tulee ottaa kirjaimellisesti – ja mahdollistaa moninaisuus käytännössä. Yhtenäistämisen sijaan EU:n pitää painottaa käytäntöjen yhteensovittamista ja vastavuoroista tunnustamista.
 
-<p><strong><a id="_8xifj83vqvy" hidefocus="true" style="outline: none;"></a>Yhteistyö turvallisuusasioissa</strong></p>
+### 1.5 Yhteistyö turvallisuusasioissa
 
 EU:n puitteissa tehtävän sotilaallisen, poliisien ja oikeudellisen yhteistyön tulee perustua itsenäisten kansallisten puolustus-, poliisi- ja oikeusviranomaisten yhteistoimintaan. EU:lle ei pidä luoda omaa, kansallisvaltioiden omista joukoista riippumatonta sotilaallista eikä poliisivoimaa, eikä rikosoikeudellista syyttäjä- ja tuomioistuinlaitosta. Unioniin ei saa muodostua vastaavaa turvallisuusviranomaisten ja alan teollisuuden yhteenliittymää kuin Yhdysvaltain liittovaltion ympärille on muodostunut. EU:n pitää lopettaa jäsenvaltioiden rangaistusasteikkojen ja rikosoikeudellisten pakkokeinojen yhtenäistäminen.
 
-<p><strong><a id="_anmib75whlhq" hidefocus="true" style="outline: none;"></a>Voidaanko EU-yhteistyötä syventää?</strong></p>
+### 1.6 Voidaanko EU-yhteistyötä syventää?
 
 Piraattipuolueen mielestä EU:n yhdentymistä ei pidä syventää ainakaan ennen kuin on kehittynyt todellinen eurooppalainen kansalaisyhteiskunta, jossa eri kansalaisyhteiskunnan toimijat ovat organisoituneet EU:n laajuisesti yhtä hyvin kuin kansainvälisen liike-elämän edunvalvontaorganisaatiot. Eri EU-maita yhdistävän julkisen keskustelun on laajennuttava ja kehityttävä. Tämä edellyttää lisää avoimuutta sekä muutoksia EU:n instituutioihin (ks. jäljempänä tässä ohjelmassa Unionin instituutiot sekä Unioni ja kansalaisyhteiskunta). EU:hun ja euroalueeseen on luotava eksplisiittinen menettely yksittäisen valtion eroamiselle unionista.
 
 ## 2. Unioni ja talous
 
-<p><strong><a id="_o4v1o08db4dn" hidefocus="true" style="outline: none;"></a>Taloudellinen vakaus</strong></p>
+### 2.1 Taloudellinen vakaus
 
 Jäsenmaiden yhteisvastuuta toistensa veloista ja kansantalouksien tasapainottamisesta ei pidä lisätä. Euroopan vakausmekanismille (EVM) ei tule myöntää enempää pääomia. Piraattipuolue kannattaa lähtökohtaisesti euroalueen koossa pitämistä. Jos eurokriisi kuitenkin pitkittyy, on euroalue purettava pienemmiksi alueellisiksi valuutoiksi. Valuutta-alueet muodostuisivat tällöin taloudelliselta tilanteeltaan mahdollisimman yhtenäisistä maista. Mikäli euron koossa pysyminen näyttäisi edellyttävän EVM:n jatkuvaa lisäpääomittamista, on ennemmin purettava euroalue kuin jatkettava kriisimaiden lainoitusta.
 
@@ -513,13 +519,13 @@ EU:n tulee valvoa ylikansallisia pankkeja vastaavasti kuin muitakin ylikansallis
 
 Pankkivalvontaelinten on toimittava avoimesti.
 
-<p><strong><a id="_m36d6fo1trjk" hidefocus="true" style="outline: none;"></a>EU:n budjetin painopisteet</strong></p>
+### 2.2 EU:n budjetin painopisteet
 
 EU:n budjetti muodostaa tällä hetkellä noin prosentin EU-maiden yhteenlasketusta bruttokansantuotteesta. Piraattipuolueen mielestä EU:n budjetin suuruusluokka on kohdallaan, mutta rakenne vääristynyt. Maataloustukien merkitystä EU:n budjetissa on edelleen vähennettävä, ja aluekehitystuet tulee keskittää nykyistä enemmän kaikkein vähiten kehittyneille alueille. EU:n budjetin painopistettä tulee siirtää tieteen ja teknologian rahoitukseen. EU voisi rahoittaa kansainvälisiä yhteistyöprojekteja ja perustaa kansallisvaltioista riippumattomia yliopistoja ja tutkimuslaitoksia. Tämä edistäisi riippumatonta tieteenharjoitusta.
 
 ## 3. Unionin instituutiot
 
-<p><strong><a id="_13yfobt2or79" hidefocus="true" style="outline: none;"></a>Vaatimukset ”parlamentaarisesta” komissiosta ongelmallisia</strong></p>
+### 3.1 Vaatimukset ”parlamentaarisesta” komissiosta ongelmallisia
 
 EU-komissiosta on vaadittu ”parlamentaarista hallitusta”. Tällöin komissaarit olisivat EU-parlamentissa enemmistön muodostavien puolueiden valitsemia ”ministereitä”, jotka noudattaisivat ”hallitusohjelmaa”. Tällöin kuitenkin EU-parlamentti muuttuisi jäsenmaiden omien parlamenttien tapaiseksi kumileimasimeksi, josta kaikki hallitusohjelmaan kirjatut toimenpiteet menisivät automaattisesti läpi. Hallitusneuvottelut tapahtuisivat suljettujen ovien takana ja niiden päätyttyä lainsäädäntöprosessiin olisi enää hyvin vaikea vaikuttaa merkittävästi – mikä onkin tällä hetkellä tilanne useimmissa jäsenmaissa.
 
@@ -527,7 +533,7 @@ Esimerkiksi ACTA-sopimus kaatui EU-parlamentissa nimenomaan sen ansiosta, ettei 
 
 Piraattipuolue tarjoaa tilalle ”presidentiaalista” mallia, joka vertautuu Yhdysvaltain käytäntöihin.
 
-<p><strong><a id="_nxx1rkzgm5hu" hidefocus="true" style="outline: none;"></a>Komissiolle presidentti suoralla kansanvaalilla</strong></p>
+### 3.2 Komissiolle presidentti suoralla kansanvaalilla
 
 Koska EU-komissio muodostetaan tällä hetkellä pitkälti jäsenmaiden hallitusten neuvottelujen tuloksena, komissiolla ei ole selkeää demokraattista mandaattia. Piraattipuolue esittää ratkaisuksi seuraavaa:
 
@@ -540,31 +546,31 @@ Koska EU-komissio muodostetaan tällä hetkellä pitkälti jäsenmaiden hallitus
  
 Jos edellä kuvattu ehdotus toteutettaisiin, komissio saisi selkeän demokraattisen mandaatin ja presidentinvaali edistäisi eurooppalaisen kansalaisyhteiskunnan kehitystä. Jäsenvaltioiden hallitusten valta EU:ssa vähenisi ja kansalaisten valta kasvaisi. Euroopan parlamentti säilyttäisi komissiosta riippumattoman asemansa, ja voisi jatkossakin pysäyttää komissiosta tulevia ehdotuksia ilman ”hallituskuria”.
  
-<p><strong><a id="_zeo2sy6djzma" hidefocus="true" style="outline: none;"></a>Lakialoiteoikeus myös EU-parlamentille</strong></p>
+### 3.3 Lakialoiteoikeus myös EU-parlamentille
  
 Myös EU-parlamentille on annettava lakialoiteoikeus. Tällä hetkellä lakialoiteoikeus on vain EU-komissiolla. Parlamentin tulisi voida määrätä komissio valmistelemaan lakiehdotuksen tietystä aiheesta. Mikäli komissio kieltäytyisi valmistelusta, parlamentin tulisi voida tehdä lakialoite siten, että parlamentti ja ministerineuvosto päättävät aloitteen hyväksymisestä yhdessä ilman komissiota. Komissiolla säilyy edelleen lakialoiteoikeus.
  
 ## 4. Unioni ja kansalaisyhteiskunta
  
-<p><strong><a id="_lbg3czrmsijn" hidefocus="true" style="outline: none;"></a>Ideoiden, ajatusten ja informaation vapaa liikkuvuus</strong></p>
+### 4.1 Ideoiden, ajatusten ja informaation vapaa liikkuvuus
  
 EU:n nykyisten neljän vapaan liikkuvuuden (ihmiset, tavarat, palvelut, pääomat) lisäksi tarvitaan myös ideoiden, ajatusten ja informaation vapaata liikkuvuutta. Tavoite edellyttää eurooppalaisen kansalaisyhteiskunnan muodostumisen tukemista esimerkiksi avoimuutta lisäämällä ja parempia kansalaisyhteiskunnan tarpeisiin suunniteltuja verkkopalveluita kehittämällä. Lisäksi on taattava, etteivät tekijänoikeudet ja muu lainsäädäntö estä tai haittaa ideoiden ja ajatusten vaihtoa sekä informaatioon pääsyä. Myös edellä kuvatut muutokset EU:n instituutioihin edistäisivät eurooppalaisen kansalaisyhteiskunnan muodostumista. On luotava myös paremmat organisatoriset edellytykset euroopanlaajuisten kansalaisjärjestöjen muodostamiselle ja toiminnalle.
  
-<p><strong><a id="_a2e0xs1ou8i6" hidefocus="true" style="outline: none;"></a>Vahvemmat kansalaisaloitteet</strong></p>
+### 4.2 Vahvemmat kansalaisaloitteet
  
 EU:ssa on tällä hetkellä kansalaisaloitekäytäntö, jossa yhteensä miljoona kansalaista vähintään seitsemästä eri jäsenmaasta voi tehdä aloitteen komissiolle. Komissio vastaa aloitteeseen, ja lisäksi siitä järjestetään parlamentissa kuuleminen.
  
 Piraattipuolueen mielestä EU:n nykyinen aloitekäytäntö ei ole riittävän voimakas. Kansalaisaloitteen tulisi aina johtaa aloitetta koskevaan äänestykseen EU-parlamentin täysistunnossa. Lisäksi tulisi ottaa käyttöön kansalaiskysymys, jossa komission tulisi vastata kansalaisten esittämään kysymykseen kirjallisesti tietyn ajan kuluessa. Kansalaiskysymykseen vaadittavien allekirjoitusten määrän tulisi olla huomattavasti pienempi kuin kansalaisaloitteen kohdalla. Lisäksi EU:n lainsäädäntöön tulisi lisätä mahdollisuus yhtäaikaisesta EU:n laajuisesta kansanäänestyksestä.
  
-<p><strong><a id="_n9no4e96zlkq" hidefocus="true" style="outline: none;"></a>Avoimuutta ministerien kokouksiin</strong></p>
+### 4.3 Avoimuutta ministerien kokouksiin
  
-<p>Eurooppa-neuvoston (pääministerien kokous) ja ministerineuvoston (tietyn alan ministerien kokous) asiakirjojen tulee olla julkisesti saatavilla vähintään kahta viikkoa ennen kokousta, jossa päätös asiasta on tarkoitus tehdä. Tällä estettäisiin hätäiset päätökset sekä demokratiaa rapauttava kiire ja salailu, joita talouskriisin aikana on esiintynyt Eurooppa- ja ministerineuvostojen toiminnassa. Kaikki Eurooppa-neuvoston ja ministerineuvoston kokoukset ja viralliset neuvottelut pitää käydä avoimin ovin.</p>
+Eurooppa-neuvoston (pääministerien kokous) ja ministerineuvoston (tietyn alan ministerien kokous) asiakirjojen tulee olla julkisesti saatavilla vähintään kahta viikkoa ennen kokousta, jossa päätös asiasta on tarkoitus tehdä. Tällä estettäisiin hätäiset päätökset sekä demokratiaa rapauttava kiire ja salailu, joita talouskriisin aikana on esiintynyt Eurooppa- ja ministerineuvostojen toiminnassa. Kaikki Eurooppa-neuvoston ja ministerineuvoston kokoukset ja viralliset neuvottelut pitää käydä avoimin ovin.
  
-<p><strong><a id="_3gpbp2gyoj3j" hidefocus="true" style="outline: none;"></a>Avoimuutta lobbaukseen</strong></p>
+### 4.4 Avoimuutta lobbaukseen
  
-<p>EU-päätöksiin vaikuttamaan pyrkivien lobbareiden toiminnan on oltava avoimempaa. Lobbaajarekisteriin ilmoittautuminen on tehtävä pakolliseksi. Komission ja EU-parlamentin on julkistava tiedot komissaarien, komission virkamiesten ja EU-parlamentaarikkojen tapaamisista lobbareiden kanssa (vastaava käytäntö on jo ainakin Britanniassa). Lobbareille koituvia raportointi- ja muita velvoitteita voidaan porrastaa sen mukaan kuinka iso toimija on kyseessä.</p>
+EU-päätöksiin vaikuttamaan pyrkivien lobbareiden toiminnan on oltava avoimempaa. Lobbaajarekisteriin ilmoittautuminen on tehtävä pakolliseksi. Komission ja EU-parlamentin on julkistava tiedot komissaarien, komission virkamiesten ja EU-parlamentaarikkojen tapaamisista lobbareiden kanssa (vastaava käytäntö on jo ainakin Britanniassa). Lobbareille koituvia raportointi- ja muita velvoitteita voidaan porrastaa sen mukaan kuinka iso toimija on kyseessä.
  
-<h1 id="energiaymppa">Piraattipuolueen energia- ja ympäristöohjelma</h1>
+# Piraattipuolueen energia- ja ympäristöohjelma
  
 Energia- ja ympäristöpolitiikassa on kiinnitettävä huomiota kestävään kehitykseen, säilytettävä luonnon moninaisuus, pyrittävä hillitsemään ilmastonmuutosta ja varauduttava ilmastonmuutoksen aiheuttamiin ongelmiin.
  
@@ -576,9 +582,9 @@ Ympäristölupaa vaativassa toiminnassa pitää vaatia riittävät vakuutukset j
  
 Ilmastonmuutos asettaa uusia haasteita myös ruoan tuotannolle. Geenimuunneltujen organismien (GMO) avulla voidaan tuottaa uusia olosuhteita kestäviä tai ravitsemuksellisesti parempia ruokalajikkeita nopeammin kuin perinteisiä menetelmiä käyttäen. GMO ei periaatteessa eroa perinteisistä jalostusmenetelmistä ja esimerkiksi geenimuunnellut kasvit ovat ruoantuotannossa ihmisille turvallisia. GMO on tärkeä menetelmä myös kehitettäessä uusia lääkeaineita.
  
-<h1 id="yhdenvertaisuus">Piraattipuolueen yhdenvertaisuusohjelma</h1>
+# Piraattipuolueen yhdenvertaisuusohjelma
  
-## Politiikan lähtökohtana tulee olla yksilönvapaus ja yhdenvertaisuus.
+## 1. Politiikan lähtökohtana tulee olla yksilönvapaus ja yhdenvertaisuus.
  
 Yhdenvertaisuus on vapaan yhteiskunnan peruspilari. Piraattipuolue uskoo jakamattomaan ja absoluuttiseen ihmisarvoon ja pyrkii näistä lähtökohdista edistämään aitoa yhdenvertaisuutta ihmisten ja ihmisryhmien välillä.
  
@@ -586,7 +592,7 @@ Lainsäädännöllisen syrjimisen lisäksi on olemassa yhteiskunnallisia sekä k
  
 Puoluetta edustavat henkilöt sitoutuvat noudattamaan syrjimättömyyden periaatetta, eivätkä toiminnallaan ja puheillaan puolueessa tai sen ulkopuolella tue, kannusta tai hyväksy syrjintää tai ennakkoluuloisuutta.
  
-## Yhdenvertaisuus lain edessä
+## 2. Yhdenvertaisuus lain edessä
  
 Yhteiskunnan tulee kohdella kaikkia kansalaisia ja kaikkia asukkaita yhdenvertaisesti. Tämä tarkoittaa sitä, että lainsäädäntö ei erottele täysivaltaisia ihmisiä.
  
@@ -594,7 +600,7 @@ Valtion keskeisiä tehtäviä on varmistaa, että jokainen yksilö voi osallistu
  
 Vähemmistö- ja sukupuolikiintiöt eivät ole perusteltu keino viedä yhteiskuntaa yhdenvertaisemmaksi, vaan usein ne pikemminkin ylläpitävät syrjiviä asenteita ja estävät yhdenvertaisuuden toteutumisen.
  
-## Sukupuolet
+## 3. Sukupuolet
  
 Kaksijakoinen sukupuolen luokittelu kuuluu menneisyyteen. Julkisen vallan on muutettava toimintatapansa niin, että se kunnioittaa sekä biologista sukupuolten kirjoa että sukupuoli-identiteettien moninaisuutta.
  
@@ -606,7 +612,7 @@ Sukupuolenkorjaushoidot on tehtävä käyttäen lähtökohtana yksilön omaa kok
  
 Intersukupuolisten lasten lääketieteellisesti tarpeettomat kirurgiset toimenpiteet tulee lopettaa.
  
-## Uskonnot
+## 4. Uskonnot
  
 Eri uskontojen ja maailmankatsomusten on oltava yhdenvertaisessa asemassa. Uskonnollisten tahojen, kuten ev. lut. kirkon, verotusoikeus ja väestörekisterin ylläpitovelvollisuus on poistettava. Uskonnollisia yhdyskuntia on kohdeltava laissa tavallisten yhdistysten tavoin.
  
@@ -616,11 +622,11 @@ Lapsia ei pidä asettaa eriarvoiseen asemaan heidän vanhempiensa uskonnon perus
  
 Uskonnolla ei tule olla erivapautta loukata ihmisten ihmisoikeuksia, ihmisarvoa tai koskemattomuutta. Tämän vuoksi esimerkiksi lasten rituaalinen ympärileikkaus on kriminalisoitava.
  
-## Asevelvollisuus
+## 5. Asevelvollisuus
  
 Nykyinen asevelvollisuusjärjestelmä ei kohtele kansalaisia tasa-arvoisesti, sillä se asettaa ase- tai siviilipalveluksen velvoitteen vain miehille. Asevelvollisuuden suhteen kaikkia sukupuolia tulee kohdella tasavertaisesti. Aseistakieltäytymisestä langetettavista valvonta- ja vapausrangaistuksista tulee luopua.
  
-## Avioliitto ja perheoikeudelliset sopimukset
+## 6. Avioliitto ja perheoikeudelliset sopimukset
  
 Avioliitto on täysivaltaisten henkilöiden keskenään solmima sopimus, ja lain edessä sen tulee olla samanlainen kaikille, riippumatta heidän seksuaalisuudestaan tai sukupuolestaan.
  
@@ -628,11 +634,11 @@ Suomessa on jo monen aikuisen perheitä, joissa rekisteröimättömien osapuolie
  
 Myös useamman kuin kahden henkilön avioliitot tulee sallia. Perheoikeudellisia sopimuksia pitää voida tehdä täysivaltaisten ihmisten kesken vapaasti. Erilaisia sopimustyyppejä ovat esimerkiksi sopimukset lasten huoltajuudesta, tiedonsaantioikeudesta, elatuksesta, luonapidosta ja adoptiosta.
  
-## Ikä
+## 7. Ikä
  
 Nykyinen lainsäädäntö sterilisaation ikärajan suhteen asettaa nuoremmat täysi-ikäiset kansalaiset eriarvoiseen asemaan. Sterilisaation tulee olla mahdollista kaikille täysi-ikäisille ja täysivaltaisille kansalaisille.
  
-## Digitaalinen eriarvoisuus
+## 8. Digitaalinen eriarvoisuus
  
 Yhteiskunnan palveluiden digitalisoituessa on kuitenkin jokaiselle kansalaiselle ylläpidettävä riittävän hyvä mahdollisuus osallistua yhteiskunnallisiin toimiin ilman tietotekniikkapakkoa. Palvelut on järjestettävä niin, että niitä voi tarvittaessa käyttää ilman tietoteknisiä välineitä.
  
@@ -642,13 +648,13 @@ Palveluntarjoajien on noudatettava verkkoneutraliteettia. Jokaista verkon käytt
  
 Samalla on huolehdittava siitä, että peruskoulusta saa riittävän tietoteknisen lukutaidon sekä tarvittavat valmiudet digitaalisten palveluiden käyttöön ja että näiden taitojen opetusta on tarjolla kaiken ikäisille.
  
-## Vanhemmuus
+## 9. Vanhemmuus
  
 Lasten vanhemmuus- ja huoltajuusasioissa on aina kohdeltava kaikkia vanhempia tasavertaisesti riippumatta heidän sukupuolestaan. Lähtökohtana tulee olla lapsen etu, ja esimerkiksi huoltajuuskiistoissa tulee voida tehdä joustavia, lapsen etua tavoittelevia sopimuksia. Näihin sisältyy esimerkiksi vuoroasuminen, jolloin lapsella voisi olla kaksi eri kotipaikkaa, sekä tukien jakaminen vanhempien kesken.
  
 Avioparin tai useamman henkilön rekisteröidyn perhesuhteen hankkiessa hedelmöidyshoidon avulla lapsi, tulee kaikki parin tai perhesuhteen jäsenet lähtökohtaisesti mieltää lapsen vanhemmaksi ilman raskasta adoptioprosessia. Sijaissynnyttäminen on mahdollistettava samaan tyyliin kuin sukusolujen luovutus.
  
-## Vammaisuus
+## 10. Vammaisuus
  
 Vammaisilla on samat ihmis- ja perusoikeudet. Vammaisuus kuvaa fyysisen, tai myös psyykkisen terveyden rajoitteita, joiden vuoksi henkilö ei pysty toimimaan täysipainoisesti fyysisessä tai sosiaalisessa ympäristössä.
  

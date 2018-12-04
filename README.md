@@ -1,4 +1,4 @@
-# Piraattipuolueen dokumenttiarkisto
+# Piraattipuolueen dokumenttikirjasto
 
 Tämä projekti sisältää [Piraattipuolueen](https://piraattipuolue.fi/) olennaiset dokumentit kuten puolueohjelmat ja säännöt.
 
