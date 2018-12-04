@@ -9,7 +9,7 @@ Piraattipuolueen dokumenttikirjasto
 Viimeisimmät piraattipuolueen versionhallinnoidut olennaiset dokumentit, kuten
 puolueohjelma ja säännöt.
 
-Aluperäiset dokumentit ovat
+Alkuperäiset dokumentit ovat
 [GitHubissa](https://github.com/piraattipuolue/piraattipuolue.github.io)
 Markdown-formaatissa. Nämä sivut on generoitu automaattisesti niistä.
 
