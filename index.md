@@ -7,7 +7,7 @@ Piraattipuolueen dokumenttikirjasto
 ===================================
 
 [Piraattipuolueen](https://piraattipuolue.fi/) viimeisimmät versiohallinnoidut
-olennaiset dokumentit, kuten [puolueohjelma](/puolueohjelma) ja säännöt.
+olennaiset dokumentit, kuten [puolueohjelma](/puolueohjelma) ja [säännöt](/saannot).
 
 Alkuperäiset dokumentit ovat
 [GitHubissa](https://github.com/piraattipuolue/piraattipuolue.github.io)
