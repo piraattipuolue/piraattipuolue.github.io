@@ -1,3 +1,8 @@
+---
+title: Piraattipuolue r.p.:n säännöt
+permalink: /saannot/
+---
+
 == 1 § Yhdistyksen nimi ja kotipaikka ==
 
 Yhdistyksen nimi on Piraattipuolue r.p., ruotsiksi Piratpartiet r.p. ja
