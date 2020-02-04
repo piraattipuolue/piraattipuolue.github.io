@@ -154,16 +154,19 @@ Yhdistyksen kokouksissa on jokaisella varsinaisena jäsenenä olevalla
 yksityishenkilöllä yksi ääni, varsinaisena jäsenenä olevalla
 yhdistyksellä tai kannatusjäsenellä ei ole äänioikeutta.
 
-Jotta jäsen voi käyttää äänioikeuttaan kokouksessa, hänen on: :: a)
-ilmoittauduttava kokouksen osallistujaksi hallituksen ohjeistamalla
-tavalla vähintään kaksi (2) viikkoa ennen kokousta ja :: b) maksettava
-kuluvan vuoden jäsenmaksu hallituksen ohjeistamalla tavalla vähintään
+Jotta jäsen voi käyttää äänioikeuttaan kokouksessa, hänen on:
+
+* a) ilmoittauduttava kokouksen osallistujaksi hallituksen ohjeistamalla
+tavalla vähintään kaksi (2) viikkoa ennen kokousta ja 
+* b) maksettava kuluvan vuoden jäsenmaksu hallituksen ohjeistamalla tavalla vähintään
 kaksi (2) viikkoa ennen kokousta.
 
 Jotta jäsen voi olla ehdolla puoluekokouksessa pidettävissä
-henkilövaaleissa, hänen on: :: a) ilmoitettava ehdokkuudestaan kyseessä
-olevassa vaalissa hallituksen ohjeistamalla tavalla vähintään kaksi (2)
-viikkoa ennen kokousta ja :: b) oltava kokouksessa äänioikeutettu.
+henkilövaaleissa, hänen on: 
+
+* a) ilmoitettava ehdokkuudestaan kyseessä olevassa vaalissa hallituksen ohjeistamalla tavalla vähintään kaksi (2)
+viikkoa ennen kokousta ja
+* b) oltava kokouksessa äänioikeutettu.
 
 Yhdistyksen kokouksen päätökseksi tulee, ellei säännöissä ole toisin
 määrätty, se mielipide, jota on kannattanut yli puolet annetuista
@@ -251,15 +254,16 @@ kokouksen aikana.
 ## 11 b § Puoluevaltuuston tehtävät ja sen varsinaisissa kokouksissa
 käsiteltävät asiat
 
-Puoluevaltuuston yleisinä tehtävinä on: :: a) seurata hallituksen
-toimintaa ja 20 a §:ssä tarkoitettujen jäsenten osallistumisoikeuksien
-ja toiminnan avoimuuden toteutumista :: b) hyväksyä hallituksen
-esityksestä merkittäviä poliittisia linjauksia ja yhdistyksen
-poliittisen toiminnan kannalta olennaisia päätöksiä :: c) päättää
-yhdistyslain 23 §:ssä tarkoitetusta kiinteistön luovuttamisesta tai
+Puoluevaltuuston yleisinä tehtävinä on:
+
+* a) seurata hallituksen toimintaa ja 20 a §:ssä tarkoitettujen jäsenten osallistumisoikeuksien
+ja toiminnan avoimuuden toteutumista 
+* b) hyväksyä hallituksen esityksestä merkittäviä poliittisia linjauksia ja yhdistyksen
+poliittisen toiminnan kannalta olennaisia päätöksiä
+* c) päättää yhdistyslain 23 §:ssä tarkoitetusta kiinteistön luovuttamisesta tai
 kiinnittämisestä taikka yhdistyksen toiminnan kannalta huomattavan muun
-omaisuuden luovuttamisesta :: d) tehdä aloitteita yhdistyksen
-kokoukselle ja hallitukselle.
+omaisuuden luovuttamisesta
+* d) tehdä aloitteita yhdistyksen kokoukselle ja hallitukselle.
 
 Puoluevaltuuston kevätkokouksessa käsitellään seuraavat asiat:
 
@@ -407,13 +411,14 @@ Jäsenäänestykseen saavat ottaa osaa puolueen äänivaltaiset
 henkilöjäsenet, jotka ovat jäsenäänestyksen toteuttamisvuoden alkaessa
 täyttäneet 15 vuotta.
 
-=## 20 a § Jäsenten osallistumisoikeudet ja toiminnan avoimuus=
+### 20 a § Jäsenten osallistumisoikeudet ja toiminnan avoimuus
 
-Yhdistyksen jäsenellä on oikeus: :: a) Tehdä puoluekokoukselle
-aloitteita sääntöjen 9 §:n mukaisesti. :: b) Tehdä aloitteita
-puoluevaltuustolle. Aloitteen on saatava ainakin kymmenen muun jäsenen
-tuki. :: c) Tehdä hallitukselle aloitteita ja kirjallisia kysymyksiä ja
-saada niihin vastaus kohtuullisessa ajassa.
+Yhdistyksen jäsenellä on oikeus: 
+
+* a) Tehdä puoluekokoukselle aloitteita sääntöjen 9 §:n mukaisesti. 
+* b) Tehdä aloitteita puoluevaltuustolle. Aloitteen on saatava ainakin kymmenen muun jäsenen
+tuki.
+* c) Tehdä hallitukselle aloitteita ja kirjallisia kysymyksiä ja saada niihin vastaus kohtuullisessa ajassa.
 
 Hallituksen on lisäksi järjestettävä jäsenistölle säännöllisiä kyselyjä
 ja neuvoa-antavia jäsenäänestyksiä jäsenistöä koskettavista asioista.
