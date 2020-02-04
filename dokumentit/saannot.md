@@ -33,10 +33,10 @@ sekä ongelmakohtien huomioimista ja korjausta.
 
 Tarkoituksensa toteuttamiseksi puolue: 
 
-* harjoittaa tiedotus- ja julkaisutoimintaa
-* tekee aloitteita ja kannanottoja 
-* osallistuu julkiseen keskusteluun tavoitteidensa edistämiseksi
-* järjestää tapahtumia ja poliittista kansalaistoimintaa.
+1. harjoittaa tiedotus- ja julkaisutoimintaa
+1. tekee aloitteita ja kannanottoja 
+1. osallistuu julkiseen keskusteluun tavoitteidensa edistämiseksi
+1. järjestää tapahtumia ja poliittista kansalaistoimintaa.
 
 Toimintansa tukemiseksi puolue voi ottaa vastaan lahjoituksia ja
 testamentteja, kerätä jäsenmaksuja, ostaa, omistaa ja hallita
@@ -192,13 +192,13 @@ Yhdistyksen varsinaisessa kokouksessa käsitellään seuraavat asiat:
 1. esitetään yhteenveto yhdistyksen taloudesta ja toiminnasta yhdistyksen edellisen varsinaisen kokouksen
 jälkeiseltä ajalta
 1. valitaan tässä järjestyksessä:
-    1. hallituksen puheenjohtaja 
-    1. 1-3 hallituksen varapuheenjohtajaa
-    1. hallituksen muut varsinaiset jäsenet
-    1. hallituksen varajäsenet
-    1. puoluevaltuuston puheenjohtaja
-    1. puoluevaltuuston muut varsinaiset jäsenet
-    1. puoluevaltuuston varajäsenet
+    * hallituksen puheenjohtaja 
+    * 1-3 hallituksen varapuheenjohtajaa
+    * hallituksen muut varsinaiset jäsenet
+    * hallituksen varajäsenet
+    * puoluevaltuuston puheenjohtaja
+    * puoluevaltuuston muut varsinaiset jäsenet
+    * puoluevaltuuston varajäsenet
 1. käsitellään muut kokouskutsussa mainitut asiat.
 
 Puoluelain 2 §:ssä tarkoitettua yleisohjelmaa (puolueohjelma tai
@@ -299,15 +299,15 @@ liittynyt jäsen voi liittyä piiriyhdistykseen asuinpaikkansa mukaan.
 
 Piiriyhdistyksen tehtävänä on:
 
-* edustaa puoluetta piiri- ja kunnallistasolla; 
-* tehdä 14 §:ssä tarkoitettu esitys puolueen
+1. edustaa puoluetta piiri- ja kunnallistasolla; 
+1. tehdä 14 §:ssä tarkoitettu esitys puolueen
 eduskuntavaaleissa asetettaviksi ehdokkaiksi ja vastata puolueen
 eduskuntavaalikampanjasta vaalipiirissä; 
-* tehdä 15 §:ssä tarkoitettu esitys puolueen maakuntavaaleissa asetettaviksi ehdokkaiksi ja vastata
+1. tehdä 15 §:ssä tarkoitettu esitys puolueen maakuntavaaleissa asetettaviksi ehdokkaiksi ja vastata
 puolueen maakuntavaalikampanjasta vaalipiirissä;
-* asettaa toiminta-alueellaan puolueen ehdokkaat kuntavaaleissa ja vastata
+1. asettaa toiminta-alueellaan puolueen ehdokkaat kuntavaaleissa ja vastata
 puolueen kuntavaalikampanjasta;
-* hoitaa muut hallituksen sille määräämät tehtävät.
+1. hoitaa muut hallituksen sille määräämät tehtävät.
 
 ## 14 § Ehdokkaiden asettaminen eduskuntavaaleihin
 
@@ -452,11 +452,11 @@ yhden tai useamman, mutta äänestäjällä on kuitenkin käytössään vain yks
 
 Äänet lasketaan seuraavasti:
 
-* Kussakin äänestyslipussa ensimmäisenä oleva ehdokas saa yhden äänen.
-* Äänikynnyksen ylittäneiltä ehdokkailta
+1. Kussakin äänestyslipussa ensimmäisenä oleva ehdokas saa yhden äänen.
+1. Äänikynnyksen ylittäneiltä ehdokkailta
 siirretään heidän saamansa ylijäämä-äänet äänestyslipussa toisena
 olleelle ehdokkaalle.
-* Jos paikkoja on vielä täyttämättä, kun kaikki
+1. Jos paikkoja on vielä täyttämättä, kun kaikki
 ylijäämä-äänet on jaettu, karsitaan pois vähiten ääniä saanut ehdokas,
 jonka äänet siirretään äänestyslipussa seuraavana olevalle ehdokkaalle.
 
