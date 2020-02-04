@@ -5,7 +5,7 @@ permalink: /saannot/
 
 # Piraattipuolue r.p.:n säännöt
 
-Hyväksytty piraattipuolueen kevätkokouksessa ??.?.????
+Hyväksytty piraattipuolueen syyskokouksessa 17.11.2018
 
 [Säännöt pdf-muodossa](https://ipfs.io/ipfs/QmTxtqAFY2i2D8X37RRDeiyT29UNWAyMy4s9uLEbxe4tM7/2019_04_09_Piraattipuolue_sa_a_nno_t_PRH_hyva_ksyma_.pdf)
 
