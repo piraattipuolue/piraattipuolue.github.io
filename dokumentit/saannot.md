@@ -31,10 +31,12 @@ päätöksenteon avoimuuden ja demokraattisuuden lisäämistä. Puolue ajaa
 teknologian tuomien mahdollisuuksien esilletuontia, vastuiden painotusta
 sekä ongelmakohtien huomioimista ja korjausta.
 
-Tarkoituksensa toteuttamiseksi puolue: \# harjoittaa tiedotus- ja
-julkaisutoimintaa \# tekee aloitteita ja kannanottoja \# osallistuu
-julkiseen keskusteluun tavoitteidensa edistämiseksi \# järjestää
-tapahtumia ja poliittista kansalaistoimintaa.
+Tarkoituksensa toteuttamiseksi puolue: 
+
+* harjoittaa tiedotus- ja julkaisutoimintaa
+* tekee aloitteita ja kannanottoja 
+* osallistuu julkiseen keskusteluun tavoitteidensa edistämiseksi
+* järjestää tapahtumia ja poliittista kansalaistoimintaa.
 
 Toimintansa tukemiseksi puolue voi ottaa vastaan lahjoituksia ja
 testamentteja, kerätä jäsenmaksuja, ostaa, omistaa ja hallita
@@ -89,8 +91,8 @@ yksityishenkilöille.
 ## 6 § Hallitus
 
 Yhdistyksen asioita hoitaa puoluehallitus, johon kuuluvat valitut
-puheenjohtaja, 1--3 varapuheenjohtajaa ja 2--20 muuta varsinaista
-jäsentä sekä 0--10 varajäsentä.
+puheenjohtaja, 1-3 varapuheenjohtajaa ja 2-20 muuta varsinaista
+jäsentä sekä 0-10 varajäsentä.
 
 Hallituksen puheenjohtajana, varapuheenjohtajana, hallituksen jäsenenä
 tai varajäsenenä voi toimia ainoastaan yhdistyksen äänioikeutettu jäsen.
@@ -180,24 +182,29 @@ sähköpostitse.
 
 ## 11 § Kokouksissa käsiteltävät asiat
 
-Yhdistyksen varsinaisessa kokouksessa käsitellään seuraavat asiat: \#
-kokouksen avaus \# valitaan kokoukselle 1--3 puheenjohtajaa, 1--3
-sihteeriä, kaksi pöytäkirjantarkastajaa ja tarvittava määrä
-ääntenlaskijoita \# todetaan kokouksen laillisuus ja päätösvaltaisuus \#
-hyväksytään kokouksen työjärjestys \# esitetään yhteenveto yhdistyksen
-taloudesta ja toiminnasta yhdistyksen edellisen varsinaisen kokouksen
-jälkeiseltä ajalta \# valitaan tässä järjestyksessä: \#\* hallituksen
-puheenjohtaja \#\* 1--3 hallituksen varapuheenjohtajaa \#\* hallituksen
-muut varsinaiset jäsenet \#\* hallituksen varajäsenet \#\*
-puoluevaltuuston puheenjohtaja \#\* puoluevaltuuston muut varsinaiset
-jäsenet \#\* puoluevaltuuston varajäsenet \# käsitellään muut
-kokouskutsussa mainitut asiat.
+Yhdistyksen varsinaisessa kokouksessa käsitellään seuraavat asiat: 
+
+1. kokouksen avaus
+1. valitaan kokoukselle 1-3 puheenjohtajaa, 1-3 sihteeriä, kaksi pöytäkirjantarkastajaa ja tarvittava määrä
+ääntenlaskijoita
+1. todetaan kokouksen laillisuus ja päätösvaltaisuus
+1. hyväksytään kokouksen työjärjestys
+1. esitetään yhteenveto yhdistyksen taloudesta ja toiminnasta yhdistyksen edellisen varsinaisen kokouksen
+jälkeiseltä ajalta
+1. valitaan tässä järjestyksessä:
+    1. hallituksen puheenjohtaja 
+    1. 1-3 hallituksen varapuheenjohtajaa
+    1. hallituksen muut varsinaiset jäsenet
+    1. hallituksen varajäsenet
+    1. puoluevaltuuston puheenjohtaja
+    1. puoluevaltuuston muut varsinaiset jäsenet
+    1. puoluevaltuuston varajäsenet
+1. käsitellään muut kokouskutsussa mainitut asiat.
 
 Puoluelain 2 §:ssä tarkoitettua yleisohjelmaa (puolueohjelma tai
 periaateohjelma) koskevat muutokset käsitellään yhdistyksen kokouksessa.
 
-## 11 a § Puoluevaltuuston valitseminen ja sen kokousten
-koollekutsuminen
+## 11 a § Puoluevaltuuston valitseminen ja sen kokousten koollekutsuminen
 
 Yhdityksellä on puoluevaltuusto, johon kuuluvat yhdistyksen
 sääntömääräisen kokouksen valitsemat puheenjohtaja, 15-40 varsinaista
@@ -225,7 +232,7 @@ puolueen kansanedustajilla ja Euroopan parlamentin jäsenillä on
 puoluevaltuuston kokouksissa läsnäolo- ja puheoikeus.
 
 Puoluevaltuusto pitää vuosittain kaksi varsinaista kokousta. Kevätkokous
-pidetään helmi--huhtikuussa ja syyskokous syys--marraskuussa.
+pidetään helmi-huhtikuussa ja syyskokous syys-marraskuussa.
 
 Varsinainen kokous on kutsuttava koolle vähintään kolme (3) viikkoa
 etukäteen sähköpostitse. Varsinaisen kokouksen koollekutsumisesta
@@ -254,23 +261,31 @@ kiinnittämisestä taikka yhdistyksen toiminnan kannalta huomattavan muun
 omaisuuden luovuttamisesta :: d) tehdä aloitteita yhdistyksen
 kokoukselle ja hallitukselle.
 
-Puoluevaltuuston kevätkokouksessa käsitellään seuraavat asiat: \#
-kokouksen avaus \# valitaan kokoukselle 1--3 puheenjohtajaa, 1--3
-sihteeriä, kaksi pöytäkirjantarkastajaa ja tarvittava määrä
-ääntenlaskijoita \# todetaan kokouksen laillisuus ja päätösvaltaisuus \#
-hyväksytään kokouksen työjärjestys \# esitetään tilinpäätös,
-vuosikertomus ja tilintarkastajien lausunto \# päätetään tilinpäätöksen
-vahvistamisesta ja vastuuvapauden myöntämisestä hallitukselle ja muille
-vastuuvelvollisille \# käsitellään muut kokouskutsussa mainitut asiat.
+Puoluevaltuuston kevätkokouksessa käsitellään seuraavat asiat:
 
-Puoluevaltuuston syyskokouksessa käsitellään seuraavat asiat: \#
-kokouksen avaus \# valitaan kokoukselle 1-3 puheenjohtajaa, 1-3
+1. kokouksen avaus
+1. valitaan kokoukselle 1-3 puheenjohtajaa, 1-3
 sihteeriä, kaksi pöytäkirjantarkastajaa ja tarvittava määrä
-ääntenlaskijoita \# todetaan kokouksen laillisuus ja päätösvaltaisuus \#
-hyväksytään kokouksen työjärjestys \# vahvistetaan toimintasuunnitelma
-ja talousarvio seuraavalle kalenterivuodelle \# valitaan yksi tai kaksi
-tilintarkastajaa ja heille varatilintarkastajat tai
-tilintarkastusyhteisö \# käsitellään muut kokouskutsussa mainitut asiat.
+ääntenlaskijoita
+1. todetaan kokouksen laillisuus ja päätösvaltaisuus
+1. hyväksytään kokouksen työjärjestys
+1. esitetään tilinpäätös, vuosikertomus ja tilintarkastajien lausunto
+1. päätetään tilinpäätöksen vahvistamisesta ja vastuuvapauden myöntämisestä hallitukselle ja muille
+vastuuvelvollisille
+1. käsitellään muut kokouskutsussa mainitut asiat.
+
+Puoluevaltuuston syyskokouksessa käsitellään seuraavat asiat:
+
+1. kokouksen avaus
+1. valitaan kokoukselle 1-3 puheenjohtajaa, 1-3
+sihteeriä, kaksi pöytäkirjantarkastajaa ja tarvittava määrä
+ääntenlaskijoita
+1. todetaan kokouksen laillisuus ja päätösvaltaisuus
+1. hyväksytään kokouksen työjärjestys
+1. vahvistetaan toimintasuunnitelma ja talousarvio seuraavalle kalenterivuodelle
+1. valitaan yksi tai kaksi tilintarkastajaa ja heille varatilintarkastajat tai
+tilintarkastusyhteisö
+1. käsitellään muut kokouskutsussa mainitut asiat.
 
 ## 12 § Piiriyhdistykset
 
@@ -282,15 +297,17 @@ liittynyt jäsen voi liittyä piiriyhdistykseen asuinpaikkansa mukaan.
 
 ## 13 § Piiriyhdistyksen tehtävät ja toiminta
 
-Piiriyhdistyksen tehtävänä on: \# edustaa puoluetta piiri- ja
-kunnallistasolla; \# tehdä 14 §:ssä tarkoitettu esitys puolueen
+Piiriyhdistyksen tehtävänä on:
+
+* edustaa puoluetta piiri- ja kunnallistasolla; 
+* tehdä 14 §:ssä tarkoitettu esitys puolueen
 eduskuntavaaleissa asetettaviksi ehdokkaiksi ja vastata puolueen
-eduskuntavaalikampanjasta vaalipiirissä; \# tehdä 15 §:ssä tarkoitettu
-esitys puolueen maakuntavaaleissa asetettaviksi ehdokkaiksi ja vastata
-puolueen maakuntavaalikampanjasta vaalipiirissä; \# asettaa
-toiminta-alueellaan puolueen ehdokkaat kuntavaaleissa ja vastata
-puolueen kuntavaalikampanjasta; \# hoitaa muut hallituksen sille
-määräämät tehtävät.
+eduskuntavaalikampanjasta vaalipiirissä; 
+* tehdä 15 §:ssä tarkoitettu esitys puolueen maakuntavaaleissa asetettaviksi ehdokkaiksi ja vastata
+puolueen maakuntavaalikampanjasta vaalipiirissä;
+* asettaa toiminta-alueellaan puolueen ehdokkaat kuntavaaleissa ja vastata
+puolueen kuntavaalikampanjasta;
+* hoitaa muut hallituksen sille määräämät tehtävät.
 
 ## 14 § Ehdokkaiden asettaminen eduskuntavaaleihin
 
@@ -433,10 +450,13 @@ siirtoäänivaalitapaa, jossa äänestäjä merkitsee ehdokkaansa
 yhden tai useamman, mutta äänestäjällä on kuitenkin käytössään vain yksi
 ääni.
 
-Äänet lasketaan seuraavasti: \# Kussakin äänestyslipussa ensimmäisenä
-oleva ehdokas saa yhden äänen. \# Äänikynnyksen ylittäneiltä ehdokkailta
+Äänet lasketaan seuraavasti:
+
+* Kussakin äänestyslipussa ensimmäisenä oleva ehdokas saa yhden äänen.
+* Äänikynnyksen ylittäneiltä ehdokkailta
 siirretään heidän saamansa ylijäämä-äänet äänestyslipussa toisena
-olleelle ehdokkaalle. \# Jos paikkoja on vielä täyttämättä, kun kaikki
+olleelle ehdokkaalle.
+* Jos paikkoja on vielä täyttämättä, kun kaikki
 ylijäämä-äänet on jaettu, karsitaan pois vähiten ääniä saanut ehdokas,
 jonka äänet siirretään äänestyslipussa seuraavana olevalle ehdokkaalle.
 
