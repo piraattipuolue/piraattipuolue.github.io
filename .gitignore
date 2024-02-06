@@ -1,4 +1,12 @@
+.*
 _site/
 .sass-cache/
 *.lock
-
+!.editorconfig
+!.gitattributes
+!.github
+!.gitignore
+!.gitmodules
+!.mailmap
+!.pre-commit-config.yaml
+!.reuse
