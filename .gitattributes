@@ -1,0 +1,3 @@
+* text=auto eol=lf linguist-detectable
+[attr]binaryd diff -merge -text
+*.svg binaryd
