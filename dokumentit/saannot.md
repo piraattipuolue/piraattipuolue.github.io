@@ -7,6 +7,43 @@ permalink: /saannot/
 
 Hyväksytty piraattipuolueen syyskokouksessa 17.11.2018
 
+<!-- editorconfig-checker-disable -->
+<!-- prettier-ignore-start -->
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+- [1 § Yhdistyksen nimi ja kotipaikka](#1-%C2%A7-yhdistyksen-nimi-ja-kotipaikka)
+- [2 § Tarkoitus ja toiminnan laatu](#2-%C2%A7-tarkoitus-ja-toiminnan-laatu)
+- [3 § Jäsenet](#3-%C2%A7-j%C3%A4senet)
+- [4 § Jäsenen eroaminen ja erottaminen](#4-%C2%A7-j%C3%A4senen-eroaminen-ja-erottaminen)
+- [5 § Liittymis- ja jäsenmaksu](#5-%C2%A7-liittymis--ja-j%C3%A4senmaksu)
+- [6 § Hallitus](#6-%C2%A7-hallitus)
+- [7 § Yhdistyksen nimen kirjoittaminen](#7-%C2%A7-yhdistyksen-nimen-kirjoittaminen)
+- [8 § Tilikausi ja tilintarkastus](#8-%C2%A7-tilikausi-ja-tilintarkastus)
+- [9 § Yhdistyksen kokoukset](#9-%C2%A7-yhdistyksen-kokoukset)
+- [10 § Yhdistyksen kokousten koollekutsuminen](#10-%C2%A7-yhdistyksen-kokousten-koollekutsuminen)
+- [11 § Kokouksissa käsiteltävät asiat](#11-%C2%A7-kokouksissa-k%C3%A4sitelt%C3%A4v%C3%A4t-asiat)
+- [11 a § Puoluevaltuuston valitseminen ja sen kokousten koollekutsuminen](#11-a-%C2%A7-puoluevaltuuston-valitseminen-ja-sen-kokousten-koollekutsuminen)
+- [11 b § Puoluevaltuuston tehtävät ja sen varsinaisissa kokouksissa](#11-b-%C2%A7-puoluevaltuuston-teht%C3%A4v%C3%A4t-ja-sen-varsinaisissa-kokouksissa)
+- [12 § Piiriyhdistykset](#12-%C2%A7-piiriyhdistykset)
+- [13 § Piiriyhdistyksen tehtävät ja toiminta](#13-%C2%A7-piiriyhdistyksen-teht%C3%A4v%C3%A4t-ja-toiminta)
+- [14 § Ehdokkaiden asettaminen eduskuntavaaleihin](#14-%C2%A7-ehdokkaiden-asettaminen-eduskuntavaaleihin)
+- [15 § Ehdokkaiden asettaminen maakuntavaaleihin](#15-%C2%A7-ehdokkaiden-asettaminen-maakuntavaaleihin)
+- [16 § Ehdokkaiden asettaminen europarlamenttivaaleihin](#16-%C2%A7-ehdokkaiden-asettaminen-europarlamenttivaaleihin)
+- [17 § Ehdokkaiden asettaminen presidentinvaaleihin](#17-%C2%A7-ehdokkaiden-asettaminen-presidentinvaaleihin)
+- [18 § Jäsenäänestyksen toteuttaminen](#18-%C2%A7-j%C3%A4sen%C3%A4%C3%A4nestyksen-toteuttaminen)
+- [19 § Ehdokkaiden nimeäminen jäsenäänestykseen](#19-%C2%A7-ehdokkaiden-nime%C3%A4minen-j%C3%A4sen%C3%A4%C3%A4nestykseen)
+- [20 § Osanotto jäsenäänestykseen](#20-%C2%A7-osanotto-j%C3%A4sen%C3%A4%C3%A4nestykseen)
+  - [20 a § Jäsenten osallistumisoikeudet ja toiminnan avoimuus](#20-a-%C2%A7-j%C3%A4senten-osallistumisoikeudet-ja-toiminnan-avoimuus)
+- [21 § Vaalin toteuttaminen](#21-%C2%A7-vaalin-toteuttaminen)
+- [22 § Sääntöjen muuttaminen ja yhdistyksen purkaminen](#22-%C2%A7-s%C3%A4%C3%A4nt%C3%B6jen-muuttaminen-ja-yhdistyksen-purkaminen)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+<!-- prettier-ignore-end -->
+<!-- editorconfig-checker-enable -->
+
 ## 1 § Yhdistyksen nimi ja kotipaikka
 
 Yhdistyksen nimi on Piraattipuolue r.p., ruotsiksi Piratpartiet r.p. ja
@@ -29,10 +66,10 @@ päätöksenteon avoimuuden ja demokraattisuuden lisäämistä. Puolue ajaa
 teknologian tuomien mahdollisuuksien esilletuontia, vastuiden painotusta
 sekä ongelmakohtien huomioimista ja korjausta.
 
-Tarkoituksensa toteuttamiseksi puolue: 
+Tarkoituksensa toteuttamiseksi puolue:
 
 1. harjoittaa tiedotus- ja julkaisutoimintaa
-1. tekee aloitteita ja kannanottoja 
+1. tekee aloitteita ja kannanottoja
 1. osallistuu julkiseen keskusteluun tavoitteidensa edistämiseksi
 1. järjestää tapahtumia ja poliittista kansalaistoimintaa.
 
@@ -154,17 +191,17 @@ yhdistyksellä tai kannatusjäsenellä ei ole äänioikeutta.
 
 Jotta jäsen voi käyttää äänioikeuttaan kokouksessa, hänen on:
 
-* a) ilmoittauduttava kokouksen osallistujaksi hallituksen ohjeistamalla
-tavalla vähintään kaksi (2) viikkoa ennen kokousta ja 
-* b) maksettava kuluvan vuoden jäsenmaksu hallituksen ohjeistamalla tavalla vähintään
-kaksi (2) viikkoa ennen kokousta.
+- a) ilmoittauduttava kokouksen osallistujaksi hallituksen ohjeistamalla
+  tavalla vähintään kaksi (2) viikkoa ennen kokousta ja
+- b) maksettava kuluvan vuoden jäsenmaksu hallituksen ohjeistamalla tavalla vähintään
+  kaksi (2) viikkoa ennen kokousta.
 
 Jotta jäsen voi olla ehdolla puoluekokouksessa pidettävissä
-henkilövaaleissa, hänen on: 
+henkilövaaleissa, hänen on:
 
-* a) ilmoitettava ehdokkuudestaan kyseessä olevassa vaalissa hallituksen ohjeistamalla tavalla vähintään kaksi (2)
-viikkoa ennen kokousta ja
-* b) oltava kokouksessa äänioikeutettu.
+- a) ilmoitettava ehdokkuudestaan kyseessä olevassa vaalissa hallituksen ohjeistamalla tavalla vähintään kaksi (2)
+  viikkoa ennen kokousta ja
+- b) oltava kokouksessa äänioikeutettu.
 
 Yhdistyksen kokouksen päätökseksi tulee, ellei säännöissä ole toisin
 määrätty, se mielipide, jota on kannattanut yli puolet annetuista
@@ -183,23 +220,23 @@ sähköpostitse.
 
 ## 11 § Kokouksissa käsiteltävät asiat
 
-Yhdistyksen varsinaisessa kokouksessa käsitellään seuraavat asiat: 
+Yhdistyksen varsinaisessa kokouksessa käsitellään seuraavat asiat:
 
 1. kokouksen avaus
 1. valitaan kokoukselle 1-3 puheenjohtajaa, 1-3 sihteeriä, kaksi pöytäkirjantarkastajaa ja tarvittava määrä
-ääntenlaskijoita
+   ääntenlaskijoita
 1. todetaan kokouksen laillisuus ja päätösvaltaisuus
 1. hyväksytään kokouksen työjärjestys
 1. esitetään yhteenveto yhdistyksen taloudesta ja toiminnasta yhdistyksen edellisen varsinaisen kokouksen
-jälkeiseltä ajalta
+   jälkeiseltä ajalta
 1. valitaan tässä järjestyksessä:
-    * hallituksen puheenjohtaja 
-    * 1-3 hallituksen varapuheenjohtajaa
-    * hallituksen muut varsinaiset jäsenet
-    * hallituksen varajäsenet
-    * puoluevaltuuston puheenjohtaja
-    * puoluevaltuuston muut varsinaiset jäsenet
-    * puoluevaltuuston varajäsenet
+   - hallituksen puheenjohtaja
+   - 1-3 hallituksen varapuheenjohtajaa
+   - hallituksen muut varsinaiset jäsenet
+   - hallituksen varajäsenet
+   - puoluevaltuuston puheenjohtaja
+   - puoluevaltuuston muut varsinaiset jäsenet
+   - puoluevaltuuston varajäsenet
 1. käsitellään muut kokouskutsussa mainitut asiat.
 
 Puoluelain 2 §:ssä tarkoitettua yleisohjelmaa (puolueohjelma tai
@@ -250,43 +287,44 @@ myös tietoliikenneyhteyden tai muun teknisen apuvälineen avulla
 kokouksen aikana.
 
 ## 11 b § Puoluevaltuuston tehtävät ja sen varsinaisissa kokouksissa
+
 käsiteltävät asiat
 
 Puoluevaltuuston yleisinä tehtävinä on:
 
-* a) seurata hallituksen toimintaa ja 20 a §:ssä tarkoitettujen jäsenten osallistumisoikeuksien
-ja toiminnan avoimuuden toteutumista 
-* b) hyväksyä hallituksen esityksestä merkittäviä poliittisia linjauksia ja yhdistyksen
-poliittisen toiminnan kannalta olennaisia päätöksiä
-* c) päättää yhdistyslain 23 §:ssä tarkoitetusta kiinteistön luovuttamisesta tai
-kiinnittämisestä taikka yhdistyksen toiminnan kannalta huomattavan muun
-omaisuuden luovuttamisesta
-* d) tehdä aloitteita yhdistyksen kokoukselle ja hallitukselle.
+- a) seurata hallituksen toimintaa ja 20 a §:ssä tarkoitettujen jäsenten osallistumisoikeuksien
+  ja toiminnan avoimuuden toteutumista
+- b) hyväksyä hallituksen esityksestä merkittäviä poliittisia linjauksia ja yhdistyksen
+  poliittisen toiminnan kannalta olennaisia päätöksiä
+- c) päättää yhdistyslain 23 §:ssä tarkoitetusta kiinteistön luovuttamisesta tai
+  kiinnittämisestä taikka yhdistyksen toiminnan kannalta huomattavan muun
+  omaisuuden luovuttamisesta
+- d) tehdä aloitteita yhdistyksen kokoukselle ja hallitukselle.
 
 Puoluevaltuuston kevätkokouksessa käsitellään seuraavat asiat:
 
 1. kokouksen avaus
 1. valitaan kokoukselle 1-3 puheenjohtajaa, 1-3
-sihteeriä, kaksi pöytäkirjantarkastajaa ja tarvittava määrä
-ääntenlaskijoita
+   sihteeriä, kaksi pöytäkirjantarkastajaa ja tarvittava määrä
+   ääntenlaskijoita
 1. todetaan kokouksen laillisuus ja päätösvaltaisuus
 1. hyväksytään kokouksen työjärjestys
 1. esitetään tilinpäätös, vuosikertomus ja tilintarkastajien lausunto
 1. päätetään tilinpäätöksen vahvistamisesta ja vastuuvapauden myöntämisestä hallitukselle ja muille
-vastuuvelvollisille
+   vastuuvelvollisille
 1. käsitellään muut kokouskutsussa mainitut asiat.
 
 Puoluevaltuuston syyskokouksessa käsitellään seuraavat asiat:
 
 1. kokouksen avaus
 1. valitaan kokoukselle 1-3 puheenjohtajaa, 1-3
-sihteeriä, kaksi pöytäkirjantarkastajaa ja tarvittava määrä
-ääntenlaskijoita
+   sihteeriä, kaksi pöytäkirjantarkastajaa ja tarvittava määrä
+   ääntenlaskijoita
 1. todetaan kokouksen laillisuus ja päätösvaltaisuus
 1. hyväksytään kokouksen työjärjestys
 1. vahvistetaan toimintasuunnitelma ja talousarvio seuraavalle kalenterivuodelle
 1. valitaan yksi tai kaksi tilintarkastajaa ja heille varatilintarkastajat tai
-tilintarkastusyhteisö
+   tilintarkastusyhteisö
 1. käsitellään muut kokouskutsussa mainitut asiat.
 
 ## 12 § Piiriyhdistykset
@@ -301,14 +339,14 @@ liittynyt jäsen voi liittyä piiriyhdistykseen asuinpaikkansa mukaan.
 
 Piiriyhdistyksen tehtävänä on:
 
-1. edustaa puoluetta piiri- ja kunnallistasolla; 
+1. edustaa puoluetta piiri- ja kunnallistasolla;
 1. tehdä 14 §:ssä tarkoitettu esitys puolueen
-eduskuntavaaleissa asetettaviksi ehdokkaiksi ja vastata puolueen
-eduskuntavaalikampanjasta vaalipiirissä; 
+   eduskuntavaaleissa asetettaviksi ehdokkaiksi ja vastata puolueen
+   eduskuntavaalikampanjasta vaalipiirissä;
 1. tehdä 15 §:ssä tarkoitettu esitys puolueen maakuntavaaleissa asetettaviksi ehdokkaiksi ja vastata
-puolueen maakuntavaalikampanjasta vaalipiirissä;
+   puolueen maakuntavaalikampanjasta vaalipiirissä;
 1. asettaa toiminta-alueellaan puolueen ehdokkaat kuntavaaleissa ja vastata
-puolueen kuntavaalikampanjasta;
+   puolueen kuntavaalikampanjasta;
 1. hoitaa muut hallituksen sille määräämät tehtävät.
 
 ## 14 § Ehdokkaiden asettaminen eduskuntavaaleihin
@@ -411,12 +449,12 @@ täyttäneet 15 vuotta.
 
 ### 20 a § Jäsenten osallistumisoikeudet ja toiminnan avoimuus
 
-Yhdistyksen jäsenellä on oikeus: 
+Yhdistyksen jäsenellä on oikeus:
 
-* a) Tehdä puoluekokoukselle aloitteita sääntöjen 9 §:n mukaisesti. 
-* b) Tehdä aloitteita puoluevaltuustolle. Aloitteen on saatava ainakin kymmenen muun jäsenen
-tuki.
-* c) Tehdä hallitukselle aloitteita ja kirjallisia kysymyksiä ja saada niihin vastaus kohtuullisessa ajassa.
+- a) Tehdä puoluekokoukselle aloitteita sääntöjen 9 §:n mukaisesti.
+- b) Tehdä aloitteita puoluevaltuustolle. Aloitteen on saatava ainakin kymmenen muun jäsenen
+  tuki.
+- c) Tehdä hallitukselle aloitteita ja kirjallisia kysymyksiä ja saada niihin vastaus kohtuullisessa ajassa.
 
 Hallituksen on lisäksi järjestettävä jäsenistölle säännöllisiä kyselyjä
 ja neuvoa-antavia jäsenäänestyksiä jäsenistöä koskettavista asioista.
@@ -457,11 +495,11 @@ yhden tai useamman, mutta äänestäjällä on kuitenkin käytössään vain yks
 
 1. Kussakin äänestyslipussa ensimmäisenä oleva ehdokas saa yhden äänen.
 1. Äänikynnyksen ylittäneiltä ehdokkailta
-siirretään heidän saamansa ylijäämä-äänet äänestyslipussa toisena
-olleelle ehdokkaalle.
+   siirretään heidän saamansa ylijäämä-äänet äänestyslipussa toisena
+   olleelle ehdokkaalle.
 1. Jos paikkoja on vielä täyttämättä, kun kaikki
-ylijäämä-äänet on jaettu, karsitaan pois vähiten ääniä saanut ehdokas,
-jonka äänet siirretään äänestyslipussa seuraavana olevalle ehdokkaalle.
+   ylijäämä-äänet on jaettu, karsitaan pois vähiten ääniä saanut ehdokas,
+   jonka äänet siirretään äänestyslipussa seuraavana olevalle ehdokkaalle.
 
 Äänikynnyksen laskemisessa käytetään laskutapaa, jonka päättää
 puoluehallitus, ja jonka se ilmoittaa äänestykseen osallistuville ennen
