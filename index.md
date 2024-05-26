@@ -3,8 +3,7 @@ Title: Etusivu
 permalink: /
 ---
 
-Piraattipuolueen dokumenttikirjasto
-===================================
+# Piraattipuolueen dokumenttikirjasto
 
 [Piraattipuolueen](https://piraattipuolue.fi/) viimeisimmät versiohallinnoidut
 olennaiset dokumentit, kuten [puolueohjelma](/puolueohjelma) ja [säännöt](/saannot).
@@ -19,7 +18,7 @@ Viimeisimmät muutokset dokumentteihin voi tarkistaa
 Vanhempia dokumentteja ja kuvia löytyy piraattipuolueen [arkistosta](http://arkisto.piraattipuolue.fi/) ja
 [PiraattiWikistä](https://wiki.piraattipuolue.fi/).
 
-Dokumentit
-----------
-* [Puolueohjelma](/puolueohjelma)
-* [Puolueen säännöt](/saannot)
+## Dokumentit
+
+- [Puolueohjelma](/puolueohjelma)
+- [Puolueen säännöt](/saannot)

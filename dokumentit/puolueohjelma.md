@@ -11,83 +11,83 @@ Yhdenvertaisuusohjelma hyväksytty Piraattipuolueen syyskokouksessa 17.11.2018
 
 Sisällys:
 
-* [Periaateohjelma](#piraattipuolueen-periaateohjelma)
-* [Yksilönvapausohjelma](#piraattipuolueen-yksilönvapausohjelma)
+- [Periaateohjelma](#piraattipuolueen-periaateohjelma)
+- [Yksilönvapausohjelma](#piraattipuolueen-yksilönvapausohjelma)
   1. [Yksilönvapaudet lähtökohtana](#1-yksilönvapaudet-lähtökohtana)
   2. [Sananvapaus, verkkoneutraliteetti ja yksityisyys](#2-sananvapaus-verkkoneutraliteetti-ja-yksityisyys)
-    * [2.1 Sananvapaus](#21-sananvapaus)
-    * [2.2 Verkkoneutraliteetti](#22-verkkoneutraliteetti)
-    * [2.3 Yksityisyys](#23-yksityisyys)
+  - [2.1 Sananvapaus](#21-sananvapaus)
+  - [2.2 Verkkoneutraliteetti](#22-verkkoneutraliteetti)
+  - [2.3 Yksityisyys](#23-yksityisyys)
   3. [Vapauksien lisääminen](#3-vapauksien-lisääminen)
-    * [3.1 Periaatteet](#31-periaatteet)
-    * [3.2 Huumeet ja päihteet](#32-huumeet-ja-päihteet)
-    * [3.3 Rahapelit](#33-rahapelit)
-    * [3.4 Asevelvollisuus](#34-asevelvollisuus)
-    * [3.5 Rahankeräys](#35-rahankeräys)
-    * [3.6 Hyvä kuolema](#36-hyvä-kuolema)
-    * [3.7 Seksuaalipalvelut](#37-seksuaalipalvelut)
-    * [3.8 Liikkeiden aukioloajat](#38-liikkeiden-aukioloajat)
-    * [3.9 Liiketoiminnan harjoittamisen vapauttaminen](#39-liiketoiminnan-harjoittamisen-vapauttaminen)
-    * [3.10 Yhdistymisvapaus](#310-yhdistymisvapaus)
-    * [3.11 Vaihtoehtovaluutat](#311-vaihtoehtovaluutat)
-    * [3.12 Yksityisyyden suoja liikenteessä](#312-yksityisyyden-suoja-liikenteessä)
+  - [3.1 Periaatteet](#31-periaatteet)
+  - [3.2 Huumeet ja päihteet](#32-huumeet-ja-päihteet)
+  - [3.3 Rahapelit](#33-rahapelit)
+  - [3.4 Asevelvollisuus](#34-asevelvollisuus)
+  - [3.5 Rahankeräys](#35-rahankeräys)
+  - [3.6 Hyvä kuolema](#36-hyvä-kuolema)
+  - [3.7 Seksuaalipalvelut](#37-seksuaalipalvelut)
+  - [3.8 Liikkeiden aukioloajat](#38-liikkeiden-aukioloajat)
+  - [3.9 Liiketoiminnan harjoittamisen vapauttaminen](#39-liiketoiminnan-harjoittamisen-vapauttaminen)
+  - [3.10 Yhdistymisvapaus](#310-yhdistymisvapaus)
+  - [3.11 Vaihtoehtovaluutat](#311-vaihtoehtovaluutat)
+  - [3.12 Yksityisyyden suoja liikenteessä](#312-yksityisyyden-suoja-liikenteessä)
   4. [Yhdenvertaisuus](#4-yhdenvertaisuus)
-    * [4.1 Yhdenvertaisuus lain edessä](#41-yhdenvertaisuus-lain-edessä)
-    * [4.2 Seksuaalisuus ja avioliitto](#42-seksuaalisuus-ja-avioliitto)
-    * [4.3 Sukupuolet](#43-sukupuolet)
-    * [4.4 Katsomus](#44-katsomus)
-    * [4.5 Etnisyys](#45-etnisyys)
+  - [4.1 Yhdenvertaisuus lain edessä](#41-yhdenvertaisuus-lain-edessä)
+  - [4.2 Seksuaalisuus ja avioliitto](#42-seksuaalisuus-ja-avioliitto)
+  - [4.3 Sukupuolet](#43-sukupuolet)
+  - [4.4 Katsomus](#44-katsomus)
+  - [4.5 Etnisyys](#45-etnisyys)
   5. [Oikeusturva](#5-oikeusturva)
-    * [5.1 Maahanmuutto](#51-maahanmuutto)
-* [Tietoyhteiskuntaohjelma](#piraattipuolueen-tietoyhteiskuntaohjelma)
+  - [5.1 Maahanmuutto](#51-maahanmuutto)
+- [Tietoyhteiskuntaohjelma](#piraattipuolueen-tietoyhteiskuntaohjelma)
   1. [Tekijänoikeudet ja patentit](#1-tekijänoikeudet-ja-patentit)
-    * [1.1 Tekijänoikeudet](#11-tekijänoikeudet)
-    * [1.2 Patentit](#12-patentit)
+  - [1.1 Tekijänoikeudet](#11-tekijänoikeudet)
+  - [1.2 Patentit](#12-patentit)
   2. [Avoin hallinto ja demokratian kehittäminen](#2-avoin-hallinto-ja-demokratian-kehittäminen)
-    * [2.1 Hallinnon avoimuus](#21-hallinnon-avoimuus)
-    * [2.2 Byrokratian vähentäminen](#22-byrokratian-vähentäminen)
-    * [2.3 Tasapuolinen demokratia](#23-tasapuolinen-demokratia)
-    * [2.4 Osallistava demokratia](#24-osallistava-demokratia)
+  - [2.1 Hallinnon avoimuus](#21-hallinnon-avoimuus)
+  - [2.2 Byrokratian vähentäminen](#22-byrokratian-vähentäminen)
+  - [2.3 Tasapuolinen demokratia](#23-tasapuolinen-demokratia)
+  - [2.4 Osallistava demokratia](#24-osallistava-demokratia)
   3. [Ohjelmistohankkeet](#3-ohjelmistohankkeet)
-    * [3.1 Avoimuus ohjelmistohankkeissa](#31-avoimuus-ohjelmistohankkeissa)
-    * [3.2 Avoimet rajapinnat](#32-avoimet-rajapinnat)
-    * [3.3 Mittatilaustyönä tehtävät ohjelmistohankkeet](#33-mittatilaustyönä-tehtävät-ohjelmistohankkeet)
+  - [3.1 Avoimuus ohjelmistohankkeissa](#31-avoimuus-ohjelmistohankkeissa)
+  - [3.2 Avoimet rajapinnat](#32-avoimet-rajapinnat)
+  - [3.3 Mittatilaustyönä tehtävät ohjelmistohankkeet](#33-mittatilaustyönä-tehtävät-ohjelmistohankkeet)
   4. [Tieto ja tutkimus](#4-tieto-ja-tutkimus)
-    * [4.1 Kansalaisten maksama tieto vapaaksi](#41-kansalaisten-maksama-tieto-vapaaksi)
-    * [4.2 Avoin tieto ja tutkimus](#42-avoin-tieto-ja-tutkimus)
-    * [4.3 Tutkimuksen sekä taiteen vapaus ja riippumattomuus](#43-tutkimuksen-sekä-taiteen-vapaus-ja-riippumattomuus)
+  - [4.1 Kansalaisten maksama tieto vapaaksi](#41-kansalaisten-maksama-tieto-vapaaksi)
+  - [4.2 Avoin tieto ja tutkimus](#42-avoin-tieto-ja-tutkimus)
+  - [4.3 Tutkimuksen sekä taiteen vapaus ja riippumattomuus](#43-tutkimuksen-sekä-taiteen-vapaus-ja-riippumattomuus)
   5. [Opetus tietoyhteiskunnassa](#5-opetus-tietoyhteiskunnassa)
-    * [5.1 Yleisperiaatteet opetuksessa](#51-yleisperiaatteet-opetuksessa)
-    * [5.2 Muutokset oppisisältöihin](#52-muutokset-oppisisältöihin)
-* [Talous-, kunta- ja perusturvaohjelma](#piraattipuolueen-talous--kunta--ja-perusturvaohjelma)
+  - [5.1 Yleisperiaatteet opetuksessa](#51-yleisperiaatteet-opetuksessa)
+  - [5.2 Muutokset oppisisältöihin](#52-muutokset-oppisisältöihin)
+- [Talous-, kunta- ja perusturvaohjelma](#piraattipuolueen-talous--kunta--ja-perusturvaohjelma)
   1. [Taloudellinen vakaus ja kasvu](#1-taloudellinen-vakaus-ja-kasvu)
   2. [Perustulo](#2-perustulo)
   3. [Parempi palvelurakenneuudistus](#3-parempi-palvelurakenneuudistus)
   4. [Ennaltaehkäisy painopisteeksi](#4-ennaltaehkäisy-painopisteeksi)
   5. [Työllisyyden parantaminen](#5-työllisyyden-parantaminen)
   6. [Joustavampi asuminen ja kaavoitus](#6-joustavampi-asuminen-ja-kaavoitus)
-* [Eurooppa-ohjelma](#piraattipuolueen-eurooppa-ohjelma)
+- [Eurooppa-ohjelma](#piraattipuolueen-eurooppa-ohjelma)
   1. [Kansallisvaltioiden ja EU:n suhde](#1-kansallisvaltioiden-ja-eun-suhde)
-  * [1.1 EU on yksi päätöksentekotaso muiden joukossa](#11-eu-on-yksi-päätöksentekotaso-muiden-joukossa)
-  * [1.2 EU vastapainona suurvalloille ja ylikansallisille yrityksille](#12-eu-vastapainona-suurvalloille-ja-ylikansallisille-yrityksille)
-  * [1.3 EU:n valtaoikeuksia tulkittava suppeasti](#13-eun-valtaoikeuksia-tulkittava-suppeasti)
-  * [1.4 Vapaus kokeilla erilaisia käytäntöjä](#14-vapaus-kokeilla-erilaisia-käytäntöjä)
-  * [1.5 Yhteistyö turvallisuusasioissa](#15-yhteistyö-turvallisuusasioissa)
-  * [1.6 Voidaanko EU-yhteistyötä syventää?](#16-voidaanko-eu-yhteistyötä-syventää)
+  - [1.1 EU on yksi päätöksentekotaso muiden joukossa](#11-eu-on-yksi-päätöksentekotaso-muiden-joukossa)
+  - [1.2 EU vastapainona suurvalloille ja ylikansallisille yrityksille](#12-eu-vastapainona-suurvalloille-ja-ylikansallisille-yrityksille)
+  - [1.3 EU:n valtaoikeuksia tulkittava suppeasti](#13-eun-valtaoikeuksia-tulkittava-suppeasti)
+  - [1.4 Vapaus kokeilla erilaisia käytäntöjä](#14-vapaus-kokeilla-erilaisia-käytäntöjä)
+  - [1.5 Yhteistyö turvallisuusasioissa](#15-yhteistyö-turvallisuusasioissa)
+  - [1.6 Voidaanko EU-yhteistyötä syventää?](#16-voidaanko-eu-yhteistyötä-syventää)
   2. [Unioni ja talous](#2-unioni-ja-talous)
-  * [2.1 Taloudellinen vakaus](#21-taloudellinen-vakaus)
-  * [2.2 EU:n budjetin painopisteet](#22-eun-budjetin-painopisteet)
+  - [2.1 Taloudellinen vakaus](#21-taloudellinen-vakaus)
+  - [2.2 EU:n budjetin painopisteet](#22-eun-budjetin-painopisteet)
   3. [Unionin instituutiot](#3-unionin-instituutiot)
-  * [3.1 Vaatimukset ”parlamentaarisesta” komissiosta ongelmallisia](#31-vaatimukset-parlamentaarisesta-komissiosta-ongelmallisia)
-  * [3.2 Komissiolle presidentti suoralla kansanvaalilla](#32-komissiolle-presidentti-suoralla-kansanvaalilla)
-  * [3.3 Lakialoiteoikeus myös EU-parlamentille](#33-lakialoiteoikeus-myös-eu-parlamentille)
+  - [3.1 Vaatimukset ”parlamentaarisesta” komissiosta ongelmallisia](#31-vaatimukset-parlamentaarisesta-komissiosta-ongelmallisia)
+  - [3.2 Komissiolle presidentti suoralla kansanvaalilla](#32-komissiolle-presidentti-suoralla-kansanvaalilla)
+  - [3.3 Lakialoiteoikeus myös EU-parlamentille](#33-lakialoiteoikeus-myös-eu-parlamentille)
   4. [Unioni ja kansalaisyhteiskunta](#4-unioni-ja-kansalaisyhteiskunta)
-  * [4.1 Ideoiden, ajatusten ja informaation vapaa liikkuvuus](#41-ideoiden-ajatusten-ja-informaation-vapaa-liikkuvuus)
-  * [4.2 Vahvemmat kansalaisaloitteet](#42-vahvemmat-kansalaisaloitteet)
-  * [4.3 Avoimuutta ministerien kokouksiin](#43-avoimuutta-ministerien-kokouksiin)
-  * [4.4 Avoimuutta lobbaukseen](#44-avoimuutta-lobbaukseen)
-* [Energia- ja ympäristöohjelma](#piraattipuolueen-energia--ja-ympäristöohjelma)
-* [Yhdenvertaisuusohjelma](#piraattipuolueen-yhdenvertaisuusohjelma)
+  - [4.1 Ideoiden, ajatusten ja informaation vapaa liikkuvuus](#41-ideoiden-ajatusten-ja-informaation-vapaa-liikkuvuus)
+  - [4.2 Vahvemmat kansalaisaloitteet](#42-vahvemmat-kansalaisaloitteet)
+  - [4.3 Avoimuutta ministerien kokouksiin](#43-avoimuutta-ministerien-kokouksiin)
+  - [4.4 Avoimuutta lobbaukseen](#44-avoimuutta-lobbaukseen)
+- [Energia- ja ympäristöohjelma](#piraattipuolueen-energia--ja-ympäristöohjelma)
+- [Yhdenvertaisuusohjelma](#piraattipuolueen-yhdenvertaisuusohjelma)
   1. [Politiikan lähtökohtana tulee olla yksilönvapaus ja yhdenvertaisuus](#1-politiikan-lähtökohtana-tulee-olla-yksilönvapaus-ja-yhdenvertaisuus)
   2. [Yhdenvertaisuus lain edessä](#2-yhdenvertaisuus-lain-edessä)
   3. [Sukupuolet](#3-sukupuolet)
@@ -619,127 +619,127 @@ Piraattipuolue tarjoaa tilalle ”presidentiaalista” mallia, joka vertautuu Yh
 
 Koska EU-komissio muodostetaan tällä hetkellä pitkälti jäsenmaiden hallitusten neuvottelujen tuloksena, komissiolla ei ole selkeää demokraattista mandaattia. Piraattipuolue esittää ratkaisuksi seuraavaa:
 
-* Komissiolle valitaan presidentti ja varapresidentti EU:n laajuisella suoralla kansanvaalilla viiden vuoden toimikaudeksi EU-parlamenttivaalien yhteydessä.
-* Kukin EU-parlamentin poliittinen ryhmä voi asettaa oman ehdokkaansa presidentiksi ja varapresidentiksi. Lisäksi tietyllä määrällä usean eri jäsenmaan kansalaisia on oikeus asettaa ehdokas (vrt. nykyinen EU-kansalaisaloite, jossa tarvitaan vähintään seitsemästä jäsenmaasta yhteensä miljoona allekirjoitusta).
-* Presidentti nimittää komissaarit, mutta EU-parlamentin on vahvistettava kunkin komissaarin nimitys (vrt. Yhdysvallat, jossa senaatti vahvistaa hallituksen jäsenet presidentin esityksestä).
-* Presidentti johtaa myös puhetta Eurooppa-neuvostossa eli pääministerien huippukokouksessa (nykyään erillinen tehtävä).
-* Varapresidentti toimii presidentin apuna komission ja Eurooppa-neuvoston johtamisessa sekä ulkopoliittisissa asioissa (vrt. nykyinen korkean ulkopoliittisen edustajan ja komission varapresidentin tehtävä).
-* Komission kokoonpanossa voisi olla edelleen jäsenmaiden tasaiseen edustukseen liittyviä määräyksiä.
- 
+- Komissiolle valitaan presidentti ja varapresidentti EU:n laajuisella suoralla kansanvaalilla viiden vuoden toimikaudeksi EU-parlamenttivaalien yhteydessä.
+- Kukin EU-parlamentin poliittinen ryhmä voi asettaa oman ehdokkaansa presidentiksi ja varapresidentiksi. Lisäksi tietyllä määrällä usean eri jäsenmaan kansalaisia on oikeus asettaa ehdokas (vrt. nykyinen EU-kansalaisaloite, jossa tarvitaan vähintään seitsemästä jäsenmaasta yhteensä miljoona allekirjoitusta).
+- Presidentti nimittää komissaarit, mutta EU-parlamentin on vahvistettava kunkin komissaarin nimitys (vrt. Yhdysvallat, jossa senaatti vahvistaa hallituksen jäsenet presidentin esityksestä).
+- Presidentti johtaa myös puhetta Eurooppa-neuvostossa eli pääministerien huippukokouksessa (nykyään erillinen tehtävä).
+- Varapresidentti toimii presidentin apuna komission ja Eurooppa-neuvoston johtamisessa sekä ulkopoliittisissa asioissa (vrt. nykyinen korkean ulkopoliittisen edustajan ja komission varapresidentin tehtävä).
+- Komission kokoonpanossa voisi olla edelleen jäsenmaiden tasaiseen edustukseen liittyviä määräyksiä.
+
 Jos edellä kuvattu ehdotus toteutettaisiin, komissio saisi selkeän demokraattisen mandaatin ja presidentinvaali edistäisi eurooppalaisen kansalaisyhteiskunnan kehitystä. Jäsenvaltioiden hallitusten valta EU:ssa vähenisi ja kansalaisten valta kasvaisi. Euroopan parlamentti säilyttäisi komissiosta riippumattoman asemansa, ja voisi jatkossakin pysäyttää komissiosta tulevia ehdotuksia ilman ”hallituskuria”.
- 
+
 ### 3.3 Lakialoiteoikeus myös EU-parlamentille
- 
+
 Myös EU-parlamentille on annettava lakialoiteoikeus. Tällä hetkellä lakialoiteoikeus on vain EU-komissiolla. Parlamentin tulisi voida määrätä komissio valmistelemaan lakiehdotuksen tietystä aiheesta. Mikäli komissio kieltäytyisi valmistelusta, parlamentin tulisi voida tehdä lakialoite siten, että parlamentti ja ministerineuvosto päättävät aloitteen hyväksymisestä yhdessä ilman komissiota. Komissiolla säilyy edelleen lakialoiteoikeus.
- 
+
 ## 4. Unioni ja kansalaisyhteiskunta
- 
+
 ### 4.1 Ideoiden, ajatusten ja informaation vapaa liikkuvuus
- 
+
 EU:n nykyisten neljän vapaan liikkuvuuden (ihmiset, tavarat, palvelut, pääomat) lisäksi tarvitaan myös ideoiden, ajatusten ja informaation vapaata liikkuvuutta. Tavoite edellyttää eurooppalaisen kansalaisyhteiskunnan muodostumisen tukemista esimerkiksi avoimuutta lisäämällä ja parempia kansalaisyhteiskunnan tarpeisiin suunniteltuja verkkopalveluita kehittämällä. Lisäksi on taattava, etteivät tekijänoikeudet ja muu lainsäädäntö estä tai haittaa ideoiden ja ajatusten vaihtoa sekä informaatioon pääsyä. Myös edellä kuvatut muutokset EU:n instituutioihin edistäisivät eurooppalaisen kansalaisyhteiskunnan muodostumista. On luotava myös paremmat organisatoriset edellytykset euroopanlaajuisten kansalaisjärjestöjen muodostamiselle ja toiminnalle.
- 
+
 ### 4.2 Vahvemmat kansalaisaloitteet
- 
+
 EU:ssa on tällä hetkellä kansalaisaloitekäytäntö, jossa yhteensä miljoona kansalaista vähintään seitsemästä eri jäsenmaasta voi tehdä aloitteen komissiolle. Komissio vastaa aloitteeseen, ja lisäksi siitä järjestetään parlamentissa kuuleminen.
- 
+
 Piraattipuolueen mielestä EU:n nykyinen aloitekäytäntö ei ole riittävän voimakas. Kansalaisaloitteen tulisi aina johtaa aloitetta koskevaan äänestykseen EU-parlamentin täysistunnossa. Lisäksi tulisi ottaa käyttöön kansalaiskysymys, jossa komission tulisi vastata kansalaisten esittämään kysymykseen kirjallisesti tietyn ajan kuluessa. Kansalaiskysymykseen vaadittavien allekirjoitusten määrän tulisi olla huomattavasti pienempi kuin kansalaisaloitteen kohdalla. Lisäksi EU:n lainsäädäntöön tulisi lisätä mahdollisuus yhtäaikaisesta EU:n laajuisesta kansanäänestyksestä.
- 
+
 ### 4.3 Avoimuutta ministerien kokouksiin
- 
+
 Eurooppa-neuvoston (pääministerien kokous) ja ministerineuvoston (tietyn alan ministerien kokous) asiakirjojen tulee olla julkisesti saatavilla vähintään kahta viikkoa ennen kokousta, jossa päätös asiasta on tarkoitus tehdä. Tällä estettäisiin hätäiset päätökset sekä demokratiaa rapauttava kiire ja salailu, joita talouskriisin aikana on esiintynyt Eurooppa- ja ministerineuvostojen toiminnassa. Kaikki Eurooppa-neuvoston ja ministerineuvoston kokoukset ja viralliset neuvottelut pitää käydä avoimin ovin.
- 
+
 ### 4.4 Avoimuutta lobbaukseen
- 
+
 EU-päätöksiin vaikuttamaan pyrkivien lobbareiden toiminnan on oltava avoimempaa. Lobbaajarekisteriin ilmoittautuminen on tehtävä pakolliseksi. Komission ja EU-parlamentin on julkistava tiedot komissaarien, komission virkamiesten ja EU-parlamentaarikkojen tapaamisista lobbareiden kanssa (vastaava käytäntö on jo ainakin Britanniassa). Lobbareille koituvia raportointi- ja muita velvoitteita voidaan porrastaa sen mukaan kuinka iso toimija on kyseessä.
- 
+
 # Piraattipuolueen energia- ja ympäristöohjelma
- 
+
 Energia- ja ympäristöpolitiikassa on kiinnitettävä huomiota kestävään kehitykseen, säilytettävä luonnon moninaisuus, pyrittävä hillitsemään ilmastonmuutosta ja varauduttava ilmastonmuutoksen aiheuttamiin ongelmiin.
- 
+
 Ilmastonmuutoksen hillitsemiseksi energiantuotannon hiilidioksidipäästöjä on vähennettävä radikaalisti. Perusenergiantuotannossa fossiilisia polttoaineita hyödyntävät voimalaitokset on korvattava ydinvoimalla, jota voidaan tuottaa niin isoissa yksiköissä kuin myös sarjatuotetuilla pienreaktoreilla. Ydinvoimaa voidaan täydentää aurinko- ja tuulivoimalla sekä vähäpäästöisillä biopolttoaineilla. Päästöjen verottaminen on parempi tapa edistää kestävää energiantuotantoa kuin yksittäisten tuotantotapojen tuet.
- 
+
 Fossiilisista polttoaineista tulee luopua vuoteen 2030 mennessä. Fossiilisista polttoaineista luopumista on jo ennen sitä edistettävä esimerkiksi päästömaksuilla tai korkeammalla verokannalla.
- 
+
 Ympäristölupaa vaativassa toiminnassa pitää vaatia riittävät vakuutukset ja vakuudet, jotta ympäristövahingon sattuessa pilattu ympäristö saadaan ennallistettua.
- 
+
 Ilmastonmuutos asettaa uusia haasteita myös ruoan tuotannolle. Geenimuunneltujen organismien (GMO) avulla voidaan tuottaa uusia olosuhteita kestäviä tai ravitsemuksellisesti parempia ruokalajikkeita nopeammin kuin perinteisiä menetelmiä käyttäen. GMO ei periaatteessa eroa perinteisistä jalostusmenetelmistä ja esimerkiksi geenimuunnellut kasvit ovat ruoantuotannossa ihmisille turvallisia. GMO on tärkeä menetelmä myös kehitettäessä uusia lääkeaineita.
- 
+
 # Piraattipuolueen yhdenvertaisuusohjelma
- 
+
 ## 1. Politiikan lähtökohtana tulee olla yksilönvapaus ja yhdenvertaisuus.
- 
+
 Yhdenvertaisuus on vapaan yhteiskunnan peruspilari. Piraattipuolue uskoo jakamattomaan ja absoluuttiseen ihmisarvoon ja pyrkii näistä lähtökohdista edistämään aitoa yhdenvertaisuutta ihmisten ja ihmisryhmien välillä.
- 
+
 Lainsäädännöllisen syrjimisen lisäksi on olemassa yhteiskunnallisia sekä kulttuurillisia syrjiviä rakenteita, jotka on tärkeä tunnistaa, jotta niiden negatiivisia vaikutuksia yhdenvertaisuuteen eri ihmisryhmien välillä voidaan kriittisesti arvioida. Piraattipuolue vastustaa syrjintää sukupuolen, iän, alkuperän, kansalaisuuden, kielen, uskonnon, vakaumuksen, mielipiteen, poliittisen toiminnan, ammattiyhdistystoiminnan, perhesuhteiden, terveydentilan, vammaisuuden, seksuaalisen suuntautumisen tai muun henkilöön liittyvän syyn perusteella.
- 
+
 Puoluetta edustavat henkilöt sitoutuvat noudattamaan syrjimättömyyden periaatetta, eivätkä toiminnallaan ja puheillaan puolueessa tai sen ulkopuolella tue, kannusta tai hyväksy syrjintää tai ennakkoluuloisuutta.
- 
+
 ## 2. Yhdenvertaisuus lain edessä
- 
+
 Yhteiskunnan tulee kohdella kaikkia kansalaisia ja kaikkia asukkaita yhdenvertaisesti. Tämä tarkoittaa sitä, että lainsäädäntö ei erottele täysivaltaisia ihmisiä.
- 
+
 Valtion keskeisiä tehtäviä on varmistaa, että jokainen yksilö voi osallistua päätöksentekoon yhdenvertaisesta asemasta. Tämä tarkoittaa käytännössä tehokasta ja tasapuolista peruskoulutusta, pääsyä julkisen tiedotuksen piiriin ja kohtuullista perusturvaa.
- 
+
 Vähemmistö- ja sukupuolikiintiöt eivät ole perusteltu keino viedä yhteiskuntaa yhdenvertaisemmaksi, vaan usein ne pikemminkin ylläpitävät syrjiviä asenteita ja estävät yhdenvertaisuuden toteutumisen.
- 
+
 ## 3. Sukupuolet
- 
+
 Kaksijakoinen sukupuolen luokittelu kuuluu menneisyyteen. Julkisen vallan on muutettava toimintatapansa niin, että se kunnioittaa sekä biologista sukupuolten kirjoa että sukupuoli-identiteettien moninaisuutta.
- 
+
 Juridinen sukupuoli on vanhentunut käsite, eikä valtion ei tarvitse tietää yksilön sukupuolta. Henkilötunnusjärjestelmän tulee olla sukupuolesta riippumaton, ja juridisen sukupuolen käsite tulee poistaa. Sukupuoli tulee merkitä valtion rekistereihin vain, mikäli henkilö itse niin haluaa.
- 
+
 Sukupuolitiedon merkitseminen lääketieteellisiin tarpeisiin on perusteltua, joten hoitorekistereihin voidaan merkitä henkilön sukupuoli-identiteetti sekä sukupuoleen liittyvät ulkoiset tekijät.
- 
+
 Sukupuolenkorjaushoidot on tehtävä käyttäen lähtökohtana yksilön omaa kokemusta ja arviointia, ja niihin liittyvät ihmisoikeusloukkaukset, kuten sterilisaatiovaatimus, on poistettava.
- 
+
 Intersukupuolisten lasten lääketieteellisesti tarpeettomat kirurgiset toimenpiteet tulee lopettaa.
- 
+
 ## 4. Uskonnot
- 
+
 Eri uskontojen ja maailmankatsomusten on oltava yhdenvertaisessa asemassa. Uskonnollisten tahojen, kuten ev. lut. kirkon, verotusoikeus ja väestörekisterin ylläpitovelvollisuus on poistettava. Uskonnollisia yhdyskuntia on kohdeltava laissa tavallisten yhdistysten tavoin.
- 
+
 Pienten lasten liittämisestä virallisiksi jäseniksi uskonnollisiin yhdyskuntiin on luovuttava. Tämä ei estä symbolisten kasterituaalien kaltaisten toimenpiteiden suorittamista.
- 
+
 Lapsia ei pidä asettaa eriarvoiseen asemaan heidän vanhempiensa uskonnon perusteella. Uskonto ja elämänkatsomustieto poistetaan kouluaineiden joukosta. Historiasta muodostetaan uusi aine ”historia ja kulttuurit”, jossa painotetaan historian lisäksi erilaisten nykykulttuurien tuntemusta. Uskonnon ja elämänkatsomustiedon tuntimäärä ja oppisisältö jaetaan filosofian ja historian ja kulttuurin kesken. Koulujen on luovuttava tapahtumien järjestämisestä uskonnollisessa kontekstissa.
- 
+
 Uskonnolla ei tule olla erivapautta loukata ihmisten ihmisoikeuksia, ihmisarvoa tai koskemattomuutta. Tämän vuoksi esimerkiksi lasten rituaalinen ympärileikkaus on kriminalisoitava.
- 
+
 ## 5. Asevelvollisuus
- 
+
 Nykyinen asevelvollisuusjärjestelmä ei kohtele kansalaisia tasa-arvoisesti, sillä se asettaa ase- tai siviilipalveluksen velvoitteen vain miehille. Asevelvollisuuden suhteen kaikkia sukupuolia tulee kohdella tasavertaisesti. Aseistakieltäytymisestä langetettavista valvonta- ja vapausrangaistuksista tulee luopua.
- 
+
 ## 6. Avioliitto ja perheoikeudelliset sopimukset
- 
+
 Avioliitto on täysivaltaisten henkilöiden keskenään solmima sopimus, ja lain edessä sen tulee olla samanlainen kaikille, riippumatta heidän seksuaalisuudestaan tai sukupuolestaan.
- 
+
 Suomessa on jo monen aikuisen perheitä, joissa rekisteröimättömien osapuolien oikeusturva ja keskinäinen yhdenvertaisuus eivät toteudu.
- 
+
 Myös useamman kuin kahden henkilön avioliitot tulee sallia. Perheoikeudellisia sopimuksia pitää voida tehdä täysivaltaisten ihmisten kesken vapaasti. Erilaisia sopimustyyppejä ovat esimerkiksi sopimukset lasten huoltajuudesta, tiedonsaantioikeudesta, elatuksesta, luonapidosta ja adoptiosta.
- 
+
 ## 7. Ikä
- 
+
 Nykyinen lainsäädäntö sterilisaation ikärajan suhteen asettaa nuoremmat täysi-ikäiset kansalaiset eriarvoiseen asemaan. Sterilisaation tulee olla mahdollista kaikille täysi-ikäisille ja täysivaltaisille kansalaisille.
- 
+
 ## 8. Digitaalinen eriarvoisuus
- 
+
 Yhteiskunnan palveluiden digitalisoituessa on kuitenkin jokaiselle kansalaiselle ylläpidettävä riittävän hyvä mahdollisuus osallistua yhteiskunnallisiin toimiin ilman tietotekniikkapakkoa. Palvelut on järjestettävä niin, että niitä voi tarvittaessa käyttää ilman tietoteknisiä välineitä.
- 
+
 Tekoälyratkaisut sekä laskennalliset päätöksentekojärjestelmät järjestelmät voivat kehittää epätasa-arvoisia malleja. Tämä on otettava huomioon suunnittelussa sekä testauksessa siten, ettei eriarvoistavaa järjestelmää tai mallia päädy käyttöön.
- 
+
 Palveluntarjoajien on noudatettava verkkoneutraliteettia. Jokaista verkon käyttäjää kuuluu kohdella tasa-arvoisesti eikä verkkopalveluiden ja verkon ylläpitäjien välillä saa olla epäreilua kilpailuasemaa antavia sopimuksia.
- 
+
 Samalla on huolehdittava siitä, että peruskoulusta saa riittävän tietoteknisen lukutaidon sekä tarvittavat valmiudet digitaalisten palveluiden käyttöön ja että näiden taitojen opetusta on tarjolla kaiken ikäisille.
- 
+
 ## 9. Vanhemmuus
- 
+
 Lasten vanhemmuus- ja huoltajuusasioissa on aina kohdeltava kaikkia vanhempia tasavertaisesti riippumatta heidän sukupuolestaan. Lähtökohtana tulee olla lapsen etu, ja esimerkiksi huoltajuuskiistoissa tulee voida tehdä joustavia, lapsen etua tavoittelevia sopimuksia. Näihin sisältyy esimerkiksi vuoroasuminen, jolloin lapsella voisi olla kaksi eri kotipaikkaa, sekä tukien jakaminen vanhempien kesken.
- 
+
 Avioparin tai useamman henkilön rekisteröidyn perhesuhteen hankkiessa hedelmöidyshoidon avulla lapsi, tulee kaikki parin tai perhesuhteen jäsenet lähtökohtaisesti mieltää lapsen vanhemmaksi ilman raskasta adoptioprosessia. Sijaissynnyttäminen on mahdollistettava samaan tyyliin kuin sukusolujen luovutus.
- 
+
 ## 10. Vammaisuus
- 
+
 Vammaisilla on samat ihmis- ja perusoikeudet. Vammaisuus kuvaa fyysisen, tai myös psyykkisen terveyden rajoitteita, joiden vuoksi henkilö ei pysty toimimaan täysipainoisesti fyysisessä tai sosiaalisessa ympäristössä.
- 
+
 Vammaisille on taattava yhdenvertaiset mahdollisuudet osallistua haluamallaan tavalla yhteiskunnan toimintaan ja tehdä työtä. Kaikilla, myös vammaisilla, tulee olla oikeus toteuttaa omaa seksuaalisuuttaan, päättää itse perheen perustamisesta, ja tarvittaessa saada näihin apua. Kaikilla tulee olla mahdollisuudet oman asuinpaikan ja tavan, sekä asuinkumppanin valintaan. Jokaisen itsemääräämisoikeutta tulee kunnioittaa ja antaa tilaa yksityisyydelle. Kaikkien kuljetuspalvelumatkojen yhdistelyn tulisi olla täysin vapaaehtoista, eikä se saisi viivästyttää hoitoon pääsyä, kotiutumista, tai arkea.
- 
+
 YK:n vammaissopimus edellyttää, että vammaiset otetaan mukaan suunnitteluun ja päätöksentekoon heitä koskevissa asioissa. Suomen tulee noudattaa tätä sopimusta täysimääräisesti. Sopimusta noudattamalla turvataan tuen yksilöllisyys ja huomioidaan heidän henkilökohtaiset erityistarpeensa. Tapaan tulisi kannustaa muidenkin vähemmistöjen kohdalla, jotta palveluista saadaan toimivia ja tehokkaita.
