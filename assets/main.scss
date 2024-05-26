@@ -1,0 +1,15 @@
+---
+#
+---
+
+@use "{{ site.theme }}";
+
+:root {
+ color-scheme: light dark !important;
+}
+
+* {
+  color: revert !important;
+  text-color: revert !important;
+  background-color: revert !important;
+}
