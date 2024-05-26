@@ -2,7 +2,7 @@
 #
 ---
 
-@use "{{ site.theme }}";
+@import "{{ site.theme }}";
 
 :root {
  color-scheme: light dark !important;
