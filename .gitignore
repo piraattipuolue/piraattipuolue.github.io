@@ -10,3 +10,5 @@ _site/
 !.mailmap
 !.pre-commit-config.yaml
 !.reuse
+!.prettierrc
+!.prettierignore
