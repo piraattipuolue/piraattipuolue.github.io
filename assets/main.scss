@@ -13,3 +13,19 @@
   text-color: revert !important;
   background-color: revert !important;
 }
+
+@media (prefers-color-scheme: dark) {
+  .site-nav {
+    color-scheme: only dark !important;
+    color: #ffffff !important;
+    background-color: #1c1b22 !important;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  .site-nav {
+    color-scheme: only light !important;
+    color: #000000 !important;
+    background-color: #ffffff !important;
+  }
+}
