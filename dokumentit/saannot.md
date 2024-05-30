@@ -1,6 +1,7 @@
 ---
 title: Piraattipuolue r.p.:n säännöt
 permalink: /saannot/
+navigation: true
 ---
 
 # Piraattipuolue r.p.:n säännöt

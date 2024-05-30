@@ -1,6 +1,7 @@
 ---
 title: Puolueohjelma
 permalink: /puolueohjelma/
+navigation: true
 ---
 
 Hyväksytty Piraattipuolueen ylimääräisessä kokouksessa 21.7.2018
