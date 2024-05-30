@@ -1,5 +1,9 @@
 # include: ['dokumentit']
-
+title: Piraattipuolueen dokumenttikirjasto
+description: >
+  GitHub Pagesissa ylläpidetty Piraattipuolueen historian
+  säilyttävä dokumenttikirjasto.
+lang: fi
 defaults:
   - scope:
       path: ""
