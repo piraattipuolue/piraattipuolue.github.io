@@ -14,3 +14,7 @@ defaults:
 theme: minima
 # theme: jekyll-theme-leap-day
 # theme: jekyll-theme-minimal
+plugins:
+  - jekyll-sitemap
+sitemap:
+  file: "/sitemap.xml"
