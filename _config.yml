@@ -4,6 +4,7 @@ description: >
   GitHub Pagesissa ylläpidetty Piraattipuolueen historian
   säilyttävä dokumenttikirjasto.
 lang: fi
+icon: https://www.piraattipuolue.fi/wp-content/uploads/2016/10/cropped-2000px-Piratpartiet.svg_-32x32.png
 defaults:
   - scope:
       path: ""
