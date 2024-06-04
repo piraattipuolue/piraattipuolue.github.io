@@ -1,3 +1,4 @@
 * text=auto eol=lf linguist-detectable
+*.md text diff=markdown
 [attr]binaryd diff -merge -text
 *.svg binaryd
