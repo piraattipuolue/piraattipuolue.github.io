@@ -1,16 +1,24 @@
 # include: ['dokumentit']
 title: Piraattipuolueen dokumenttikirjasto
+tagline: Valitse vapaus
+author:
+  name: "Piraattipuolue"
+  url: "https://piraattipuolue.fi"
 description: >
   GitHub Pagesissa ylläpidetty Piraattipuolueen historian
   säilyttävä dokumenttikirjasto.
 lang: fi
+locale: fi_FI
+timezone: Europe/Helsinki
+github_username: Piraattipuolue
+encoding: utf-8
 icon: https://www.piraattipuolue.fi/wp-content/uploads/2016/10/cropped-2000px-Piratpartiet.svg_-32x32.png
 defaults:
   - scope:
-      path: ""
+      path: "*"
     values:
       layout: "default"
-
+      image: https://www.piraattipuolue.fi/wp-content/uploads/2016/10/cropped-2000px-Piratpartiet.svg_-32x32.png
 theme: minima
 # theme: jekyll-theme-leap-day
 # theme: jekyll-theme-minimal
@@ -18,3 +26,4 @@ plugins:
   - jekyll-sitemap
 sitemap:
   file: "/sitemap.xml"
+# jekyll seo-tag
