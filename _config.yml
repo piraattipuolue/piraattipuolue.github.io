@@ -10,7 +10,13 @@ description: >
 lang: fi
 locale: fi_FI
 timezone: Europe/Helsinki
+facebook_username: Piraattipuolue
 github_username: Piraattipuolue
+instagram_username: Piraattipuolue
+mastodon:
+  username: Piraattipuolue
+  instance: mementomori.social
+youtube_username: Piraattipuolue
 encoding: utf-8
 icon: https://www.piraattipuolue.fi/wp-content/uploads/2016/10/cropped-2000px-Piratpartiet.svg_-32x32.png
 defaults:
