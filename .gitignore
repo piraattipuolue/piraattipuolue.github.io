@@ -4,7 +4,8 @@ _site/
 node_modules/
 vendor/
 *.lock
-pnpm-lock.yaml
+!Gemfile.lock
+!pnpm-lock.yaml
 !.editorconfig
 !.gitattributes
 !.github
