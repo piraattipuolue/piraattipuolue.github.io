@@ -1,6 +1,6 @@
 ci:
   autoupdate_schedule: quarterly
-  skip: [prettier]
+  skip: [pnpm-install-dev, prettier]
 
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
@@ -29,7 +29,14 @@ repos:
 
   - repo: local
     hooks:
+      - id: pnpm-install-dev
+        name: Install pnpm dev dependencies
+        entry: corepack pnpm install -D
+        language: system
+        always_run: true
+        #verbose: true
+        pass_filenames: false
       - id: prettier
         name: prettier
-        entry: pnpm exec prettier --cache --ignore-unknown --write
+        entry: corepack pnpm exec prettier --cache --ignore-unknown --write
         language: system
