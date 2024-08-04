@@ -1,42 +1,73 @@
 ci:
+  # Forĝejo/Gitea mirrors will autoclose pull requests. This should decrease
+  # the frequency of unnecessary PRs.
+  # https://github.com/pre-commit-ci/issues/issues/83
   autoupdate_schedule: quarterly
-  skip: [pnpm-install-dev, prettier]
+  skip: ["prettier"]
+
+default_language_version:
+  node: "lts"
+  # Remember .python-version !
+  python: "3.12"
+  ruby: ".ruby-version"
 
 repos:
-  - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v4.6.0
-    hooks:
-      - id: trailing-whitespace
-        args: ["--markdown-linebreak-ext", "md,markdown"]
-        exclude_types: [svg, tsv]
-      - id: end-of-file-fixer
-      - id: check-yaml
-      - id: check-added-large-files
-      - id: check-case-conflict
-      - id: check-json
-      - id: fix-byte-order-marker
-      - id: check-merge-conflict
-      - id: mixed-line-ending
-        args: [--fix=auto]
-      - id: pretty-format-json
-        args: [--autofix, --no-ensure-ascii]
-
   - repo: https://github.com/thlorenz/doctoc
     rev: v2.2.0
     hooks:
       - id: doctoc
         args: [--update-only, --notitle]
 
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.6.0
+    hooks:
+      - id: trailing-whitespace
+        args: ["--markdown-linebreak-ext", "md,markdown"]
+        exclude_types: [svg, tsv]
+        #- id: end-of-file-fixer
+      - id: check-yaml
+      - id: check-added-large-files
+      - id: check-case-conflict
+      - id: check-executables-have-shebangs
+      - id: check-json
+      - id: check-merge-conflict
+      - id: check-shebang-scripts-are-executable
+      - id: check-toml
+      - id: check-xml
+      - id: destroyed-symlinks
+      - id: detect-private-key
+      - id: fix-byte-order-marker
+      - id: check-merge-conflict
+      - id: mixed-line-ending
+        args: [--fix=auto]
+      - id: pretty-format-json
+        args:
+          # Remember also: --no-sort-keys
+          # ASCII excludes the älphäbet amongst others
+          [
+            --autofix,
+            --indent,
+            "\t",
+            --no-ensure-ascii,
+            --top-keys,
+            "Name,name",
+          ]
+
+  - repo: https://github.com/pre-commit-ci/pre-commit-ci-config
+    rev: v1.6.1
+    hooks:
+      - id: check-pre-commit-ci-config
+
   - repo: local
     hooks:
-      - id: pnpm-install-dev
-        name: Install pnpm dev dependencies
-        entry: corepack pnpm install -D
-        language: system
-        always_run: true
-        #verbose: true
-        pass_filenames: false
       - id: prettier
         name: prettier
-        entry: corepack pnpm exec prettier --cache --ignore-unknown --write
+        entry: corepack pnpx prettier --cache --ignore-unknown --write
         language: system
+
+  - repo: https://github.com/editorconfig-checker/editorconfig-checker.python
+    rev: "2.7.3"
+    hooks:
+      - id: editorconfig-checker
+        alias: ec
+        args: [-disable-max-line-length]

@@ -1,6 +1,0 @@
-{
-  "proseWrap": "always",
-  "singleAttributePerLine": true,
-  "plugins": ["@prettier/plugin-xml", "prettier-plugin-sh"],
-  "overrides": [{ "files": ".prettierrc", "options": { "parser": "json" } }]
-}
