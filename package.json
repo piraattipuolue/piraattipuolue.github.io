@@ -1,7 +1,14 @@
 {
 	"devDependencies": {
-		"@aminda/global-prettier-config": "2024.28.4"
+		"@aminda/global-prettier-config": "2025.13.1",
+		"@prettier/plugin-ruby": "4.0.4",
+		"@prettier/plugin-xml": "3.4.1",
+		"corepack": "latest",
+		"prettier": "3.5.3",
+		"prettier-plugin-nginx": "1.0.3",
+		"prettier-plugin-sh": "0.16.0",
+		"prettier-plugin-toml": "2.0.3"
 	},
-	"packageManager": "pnpm@9.7.1+sha512.faf344af2d6ca65c4c5c8c2224ea77a81a5e8859cbc4e06b1511ddce2f0151512431dd19e6aff31f2c6a8f5f2aced9bd2273e1fed7dd4de1868984059d2c4247",
+	"packageManager": "pnpm@10.7.0+sha512.6b865ad4b62a1d9842b61d674a393903b871d9244954f652b8842c2b553c72176b278f64c463e52d40fff8aba385c235c8c9ecf5cc7de4fd78b8bb6d49633ab6",
 	"prettier": "@aminda/global-prettier-config"
 }
