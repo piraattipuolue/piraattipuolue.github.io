@@ -2,9 +2,11 @@
 #
 ---
 
-$base-font-family: ui-serif, system-ui, "Liberation Serif", Tinos,
+$base-font-family:
+  ui-serif, "Segoe UI Variable", system-ui, "Liberation Serif", Tinos,
   "Times New Roman", serif;
-$monospace-font-family: ui-monospace, "Liberation Mono", Cousine, "Courier New",
+$monospace-font-family:
+  ui-monospace, "Segoe UI Mono", "Liberation Mono", Cousine, "Courier New",
   monospace;
 
 @import "{{ site.theme }}";
