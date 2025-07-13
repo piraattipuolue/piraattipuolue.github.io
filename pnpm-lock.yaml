@@ -9,8 +9,8 @@ importers:
   .:
     devDependencies:
       '@aminda/global-prettier-config':
-        specifier: 2025.15.0
-        version: 2025.15.0
+        specifier: 2025.28.0
+        version: 2025.28.0
       '@prettier/plugin-ruby':
         specifier: 4.0.4
         version: 4.0.4(prettier@3.6.2)
@@ -35,16 +35,11 @@ importers:
 
 packages:
 
-  '@aminda/global-prettier-config@2025.15.0':
-    resolution: {integrity: sha512-KFBpY4OaIUZRWBGN/6iJlEZkV6mrq+jHJnqz1tpuMfnR5c0Rx27EmHirsg/WdEUKbt/33OPUDiLV/BcbB3Ak8Q==}
+  '@aminda/global-prettier-config@2025.28.0':
+    resolution: {integrity: sha512-65rmLNrMWMr4NkjiCrBdKAyBQ7GoWTPElXzZQjUIkpBARFJWD4QTVOuffMxfLCuq4x3rmbD0rcyaVWNsUsQIVA==}
 
   '@prettier/plugin-ruby@4.0.4':
     resolution: {integrity: sha512-lCpvfS/dQU5WrwN3AQ5vR8qrvj2h5gE41X08NNzAAXvHdM4zwwGRcP2sHSxfu6n6No+ljWCVx95NvJPFTTjCTg==}
-    peerDependencies:
-      prettier: ^3.0.0
-
-  '@prettier/plugin-xml@3.4.1':
-    resolution: {integrity: sha512-Uf/6/+9ez6z/IvZErgobZ2G9n1ybxF5BhCd7eMcKqfoWuOzzNUxBipNo3QAP8kRC1VD18TIo84no7LhqtyDcTg==}
     peerDependencies:
       prettier: ^3.0.0
 
@@ -52,9 +47,6 @@ packages:
     resolution: {integrity: sha512-/UyNlHfkuLXG6Ed85KB0WBF283xn2yavR+UtRibBRUcvEJId2DSLdGXwJ/cDa1X++SWDPzq3+GSFniHjkNy7yg==}
     peerDependencies:
       prettier: ^3.0.0
-
-  '@reteps/dockerfmt@0.2.6':
-    resolution: {integrity: sha512-a3OYxLpIc6jbW1prbruEhRq9eYre9fKhcBD+boVwhri9L9ebdnKNy4LzaDa/tiu81P9phxA6Xi8r6jtV8I7Xsw==}
 
   '@reteps/dockerfmt@0.3.6':
     resolution: {integrity: sha512-Tb5wIMvBf/nLejTQ61krK644/CEMB/cpiaIFXqGApfGqO3GwcR3qnI0DbmkFVCl2OyEp8LnLX3EkucoL0+tbFg==}
@@ -80,34 +72,17 @@ packages:
   prettier-plugin-nginx@1.0.3:
     resolution: {integrity: sha512-vV5q85s8XnV6NEgvz1gVLfZhmxAxY03MyOYj2ApBpjFkbs00lRsRkTmqO9L39ADuD18z1RRCcfZ3eVxKhI/nqg==}
 
-  prettier-plugin-sh@0.17.1:
-    resolution: {integrity: sha512-jbrB7MRlmgtSRx2+I3McQGdFb98VUtJTkQ5DiK6oSJSfCy6vSBxSsuyDZ1xIx13TqREUHTsMzlNrZBZScuJJXQ==}
-    engines: {node: '>=16.0.0'}
-    peerDependencies:
-      prettier: ^3.0.3
-
   prettier-plugin-sh@0.18.0:
     resolution: {integrity: sha512-cW1XL27FOJQ/qGHOW6IHwdCiNWQsAgK+feA8V6+xUTaH0cD3Mh+tFAtBvEEWvuY6hTDzRV943Fzeii+qMOh7nQ==}
     engines: {node: '>=16.0.0'}
     peerDependencies:
       prettier: ^3.6.0
 
-  prettier-plugin-toml@2.0.4:
-    resolution: {integrity: sha512-uOTNPClqnE3T9XJ8hCqAJek70Jnk3/ZuAG/aXRTmrWbVe8lJyuZ60KV7OtgWqF+iGZOPVpkh+giHhX9GZYRHGA==}
-    engines: {node: '>=16.0.0'}
-    peerDependencies:
-      prettier: ^3.0.3
-
   prettier-plugin-toml@2.0.6:
     resolution: {integrity: sha512-12N/wBuHa9jd/KVy9pRP20NMKxQfQLMseQCt66lIbLaPLItvGUcSIryE1eZZMJ7loSws6Ig3M2Elc2EreNh76w==}
     engines: {node: '>=16.0.0'}
     peerDependencies:
       prettier: ^3.0.3
-
-  prettier@3.5.3:
-    resolution: {integrity: sha512-QQtaxnoDJeAkDvDKWCLiwIXkTgRhwYDEQCghU9Z6q03iyek/rxRh/2lC3HB7P8sWT2xC/y5JDctPLBIGzHKbhw==}
-    engines: {node: '>=14'}
-    hasBin: true
 
   prettier@3.6.2:
     resolution: {integrity: sha512-I7AIg5boAr5R0FFtJ6rCfD+LFsWHp81dolrFD8S79U9tb8Az2nGrJncnMSnys+bpQJfRUzqs9hnA81OAA3hCuQ==}
@@ -116,10 +91,6 @@ packages:
 
   regexp-to-ast@0.5.0:
     resolution: {integrity: sha512-tlbJqcMHnPKI9zSrystikWKwHkBqu2a/Sgw01h3zFjvYrMxEDYHzzoMZnUrbIfpTFEsoRnnviOXNCzFiSc54Qw==}
-
-  sh-syntax@0.5.6:
-    resolution: {integrity: sha512-hUprXSSgi3HLdIxufSsr0lceThj6vKsgOHcVVGujDGLWg9RD5Mt6j2m642qkTAU/7GFX65ed/g9h2jeURGuTlQ==}
-    engines: {node: '>=16.0.0'}
 
   sh-syntax@0.5.8:
     resolution: {integrity: sha512-JfVoxf4FxQI5qpsPbkHhZo+n6N9YMJobyl4oGEUBb/31oQYlgTjkXQD8PBiafS2UbWoxrTO0Z5PJUBXEPAG1Zw==}
@@ -130,35 +101,24 @@ packages:
 
 snapshots:
 
-  '@aminda/global-prettier-config@2025.15.0':
+  '@aminda/global-prettier-config@2025.28.0':
     dependencies:
-      '@prettier/plugin-ruby': 4.0.4(prettier@3.5.3)
-      '@prettier/plugin-xml': 3.4.1(prettier@3.5.3)
+      '@prettier/plugin-ruby': 4.0.4(prettier@3.6.2)
+      '@prettier/plugin-xml': 3.4.2(prettier@3.6.2)
       corepack: 0.33.0
-      prettier: 3.5.3
+      prettier: 3.6.2
       prettier-plugin-nginx: 1.0.3
-      prettier-plugin-sh: 0.17.1(prettier@3.5.3)
-      prettier-plugin-toml: 2.0.4(prettier@3.5.3)
-
-  '@prettier/plugin-ruby@4.0.4(prettier@3.5.3)':
-    dependencies:
-      prettier: 3.5.3
+      prettier-plugin-sh: 0.18.0(prettier@3.6.2)
+      prettier-plugin-toml: 2.0.6(prettier@3.6.2)
 
   '@prettier/plugin-ruby@4.0.4(prettier@3.6.2)':
     dependencies:
       prettier: 3.6.2
 
-  '@prettier/plugin-xml@3.4.1(prettier@3.5.3)':
-    dependencies:
-      '@xml-tools/parser': 1.0.11
-      prettier: 3.5.3
-
   '@prettier/plugin-xml@3.4.2(prettier@3.6.2)':
     dependencies:
       '@xml-tools/parser': 1.0.11
       prettier: 3.6.2
-
-  '@reteps/dockerfmt@0.2.6': {}
 
   '@reteps/dockerfmt@0.3.6': {}
 
@@ -180,37 +140,20 @@ snapshots:
 
   prettier-plugin-nginx@1.0.3: {}
 
-  prettier-plugin-sh@0.17.1(prettier@3.5.3):
-    dependencies:
-      '@reteps/dockerfmt': 0.2.6
-      prettier: 3.5.3
-      sh-syntax: 0.5.6
-
   prettier-plugin-sh@0.18.0(prettier@3.6.2):
     dependencies:
       '@reteps/dockerfmt': 0.3.6
       prettier: 3.6.2
       sh-syntax: 0.5.8
 
-  prettier-plugin-toml@2.0.4(prettier@3.5.3):
-    dependencies:
-      '@taplo/lib': 0.5.0
-      prettier: 3.5.3
-
   prettier-plugin-toml@2.0.6(prettier@3.6.2):
     dependencies:
       '@taplo/lib': 0.5.0
       prettier: 3.6.2
 
-  prettier@3.5.3: {}
-
   prettier@3.6.2: {}
 
   regexp-to-ast@0.5.0: {}
-
-  sh-syntax@0.5.6:
-    dependencies:
-      tslib: 2.8.1
 
   sh-syntax@0.5.8:
     dependencies:
