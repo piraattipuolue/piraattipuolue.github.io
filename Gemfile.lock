@@ -83,7 +83,7 @@ GEM
     safe_yaml (1.0.5)
     sass-embedded (1.86.3-x86_64-linux-gnu)
       google-protobuf (~> 4.30)
-    syntax_tree (6.2.0)
+    syntax_tree (6.3.0)
       prettier_print (>= 1.2.0)
     syntax_tree-haml (4.0.3)
       haml (>= 5.2)
@@ -116,7 +116,7 @@ DEPENDENCIES
   syntax_tree-rbs
 
 RUBY VERSION
-   ruby 3.4.2p28
+   ruby 3.4.4p34
 
 BUNDLED WITH
    2.6.2
