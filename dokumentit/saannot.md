@@ -8,54 +8,48 @@ navigation: true
 
 Voimassaolevat säännöt: 20.04.2023 13:13:18
 
-<!--
-Sääntöjen päivittäjä!
-Huomaa " §" olevan tarkoituksella korvattu pisteellä, jotta sisällysluettelo
-toimii! https://github.com/thlorenz/doctoc/issues/260
--->
-
 <!-- editorconfig-checker-disable -->
 <!-- prettier-ignore-start -->
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [1. Puolueen nimi ja kotipaikka](#1-puolueen-nimi-ja-kotipaikka)
-- [2. Tarkoitus ja toiminnan laatu](#2-tarkoitus-ja-toiminnan-laatu)
-- [3. Jäsenet](#3-j%C3%A4senet)
-- [4. Toimielimet](#4-toimielimet)
-- [5. Johtosäännöt ja sääntöjen hierarkia](#5-johtos%C3%A4%C3%A4nn%C3%B6t-ja-s%C3%A4%C3%A4nt%C3%B6jen-hierarkia)
-- [6. Päätöksenteon yleiset periaatteet](#6-p%C3%A4%C3%A4t%C3%B6ksenteon-yleiset-periaatteet)
-- [7. Äänioikeutetut jäsenet](#7-%C3%A4%C3%A4nioikeutetut-j%C3%A4senet)
-- [8. Jäsenten osallistumisoikeudet ja toiminnan avoimuus](#8-j%C3%A4senten-osallistumisoikeudet-ja-toiminnan-avoimuus)
-- [9. Jäsenaloite](#9-j%C3%A4senaloite)
-- [10. Puolueen nimen kirjoittaminen](#10-puolueen-nimen-kirjoittaminen)
-- [11. Tilikausi ja tilintarkastus](#11-tilikausi-ja-tilintarkastus)
-- [12. Puoluekokoukset](#12-puoluekokoukset)
-- [13. Puoluehallitus](#13-puoluehallitus)
-- [14. Puoluevaltuusto](#14-puoluevaltuusto)
-- [15. Sovittelulautakunta](#15-sovittelulautakunta)
-- [16. Piiriyhdistykset](#16-piiriyhdistykset)
-- [17. Ehdokkaiden asettaminen vaaleihin](#17-ehdokkaiden-asettaminen-vaaleihin)
-- [18. Vaalin toteuttaminen](#18-vaalin-toteuttaminen)
-- [19. Jäsenen eroaminen ja erottaminen](#19-j%C3%A4senen-eroaminen-ja-erottaminen)
-- [20. Liittymis- ja jäsenmaksu](#20-liittymis--ja-j%C3%A4senmaksu)
-- [21. Sääntöjen muuttaminen ja puolueen purkaminen](#21-s%C3%A4%C3%A4nt%C3%B6jen-muuttaminen-ja-puolueen-purkaminen)
-- [22. Siirtymäsäännökset](#22-siirtym%C3%A4s%C3%A4%C3%A4nn%C3%B6kset)
+- [1 § Puolueen nimi ja kotipaikka](#1-%C2%A7-puolueen-nimi-ja-kotipaikka)
+- [2 § Tarkoitus ja toiminnan laatu](#2-%C2%A7-tarkoitus-ja-toiminnan-laatu)
+- [3 § Jäsenet](#3-%C2%A7-j%C3%A4senet)
+- [4 § Toimielimet](#4-%C2%A7-toimielimet)
+- [5 § Johtosäännöt ja sääntöjen hierarkia](#5-%C2%A7-johtos%C3%A4%C3%A4nn%C3%B6t-ja-s%C3%A4%C3%A4nt%C3%B6jen-hierarkia)
+- [6 § Päätöksenteon yleiset periaatteet](#6-%C2%A7-p%C3%A4%C3%A4t%C3%B6ksenteon-yleiset-periaatteet)
+- [7 § Äänioikeutetut jäsenet](#7-%C2%A7-%C3%A4%C3%A4nioikeutetut-j%C3%A4senet)
+- [8 § Jäsenten osallistumisoikeudet ja toiminnan avoimuus](#8-%C2%A7-j%C3%A4senten-osallistumisoikeudet-ja-toiminnan-avoimuus)
+- [9 § Jäsenaloite](#9-%C2%A7-j%C3%A4senaloite)
+- [10 § Puolueen nimen kirjoittaminen](#10-%C2%A7-puolueen-nimen-kirjoittaminen)
+- [11 § Tilikausi ja tilintarkastus](#11-%C2%A7-tilikausi-ja-tilintarkastus)
+- [12 § Puoluekokoukset](#12-%C2%A7-puoluekokoukset)
+- [13 § Puoluehallitus](#13-%C2%A7-puoluehallitus)
+- [14 § Puoluevaltuusto](#14-%C2%A7-puoluevaltuusto)
+- [15 § Sovittelulautakunta](#15-%C2%A7-sovittelulautakunta)
+- [16 § Piiriyhdistykset](#16-%C2%A7-piiriyhdistykset)
+- [17 § Ehdokkaiden asettaminen vaaleihin](#17-%C2%A7-ehdokkaiden-asettaminen-vaaleihin)
+- [18 § Vaalin toteuttaminen](#18-%C2%A7-vaalin-toteuttaminen)
+- [19 § Jäsenen eroaminen ja erottaminen](#19-%C2%A7-j%C3%A4senen-eroaminen-ja-erottaminen)
+- [20 § Liittymis- ja jäsenmaksu](#20-%C2%A7-liittymis--ja-j%C3%A4senmaksu)
+- [21 § Sääntöjen muuttaminen ja puolueen purkaminen](#21-%C2%A7-s%C3%A4%C3%A4nt%C3%B6jen-muuttaminen-ja-puolueen-purkaminen)
+- [22 § Siirtymäsäännökset](#22-%C2%A7-siirtym%C3%A4s%C3%A4%C3%A4nn%C3%B6kset)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 <!-- prettier-ignore-end -->
 <!-- editorconfig-checker-enable -->
 
-## 1. Puolueen nimi ja kotipaikka
+## 1 § Puolueen nimi ja kotipaikka
 
 Puolueen nimi on Piraattipuolue ry, ruotsiksi Piratpartiet rf ja sen kotipaikka
 on Helsinki, toimialueena koko Suomi.
 
 Puolueen kieliä ovat suomi ja ruotsi, pöytäkirjakieli on kuitenkin suomi.
 
-## 2. Tarkoitus ja toiminnan laatu
+## 2 § Tarkoitus ja toiminnan laatu
 
 Puolueen tarkoituksena on edistää vapaata ja yhdenvertaista yhteiskuntaa
 toimimalla kansalaisyhteiskunnassa ja edustuksellisen demokratian
@@ -83,7 +77,7 @@ liittyvää julkaisutoimintaa.
 Puolueen tarkoituksena ei ole taloudellisen voiton hankkiminen puolueen
 jäsenille.
 
-## 3. Jäsenet
+## 3 § Jäsenet
 
 Puolueen varsinaiseksi jäseneksi voi liittyä jokainen yhdistyslain (503/1989) 10
 §:n 2 momentissa tarkoitettu yksityishenkilö tai rekisteröity yhdistys, joka
@@ -95,7 +89,7 @@ kannatusjäsenillä ei ole äänioikeutta.
 Varsinaiset jäsenet hyväksyy hakemuksesta puoluehallitus. Kannatusjäsenet
 hyväksyy puoluehallitus.
 
-## 4. Toimielimet
+## 4 § Toimielimet
 
 Puolueen toimielimiä ovat puoluevaltuusto, puoluehallitus ja
 sovittelulautakunta.
@@ -106,7 +100,7 @@ kokouksen jälkeen, jossa toimielin on valittu.
 Puoluehallitus sekä sovittelulautakunta valitaan parillisina vuosina ja
 parittomina puoluevaltuusto.
 
-## 5. Johtosäännöt ja sääntöjen hierarkia
+## 5 § Johtosäännöt ja sääntöjen hierarkia
 
 Johtosäännöt ohjaavat tarkemmin puolueen ja sen toimielimien toimintaa.
 
@@ -123,7 +117,7 @@ Toimielimet hyväksyvät itselleen omat työjärjestykset. Puolueen kokous- ja
 puoluevaltuusto tai puoluekokous.
 
 Puolueen kokous- ja äänestysjärjestys sekä puoluevaltuuston työjärjestys
-toimivat soveltuvin osin yhdistyslain 30.:ssä tarkoitettuna äänestys- ja
+toimivat soveltuvin osin yhdistyslain 30 §:ssä tarkoitettuna äänestys- ja
 vaalijärjestyksenä.
 
 Puolueen toimielimet huolehtivat siitä, etteivät heidän hyväksymänsä
@@ -136,12 +130,12 @@ Puolueen sisäinen normihierarkia on
 2. puoluekokousten hyväksymät johtosäännöt ja puolueen periaateohjelma,
 3. puoluevaltuuston hyväksymät johtosäännöt ja poliittiset linjaukset.
 
-## 6. Päätöksenteon yleiset periaatteet
+## 6 § Päätöksenteon yleiset periaatteet
 
 Puolueen tai sen toimielinten kokouksiin voidaan osallistua myös
 tietoliikenneyhteyden tai muun teknisen apuvälineen avulla kokouksen aikana.
 
-## 7. Äänioikeutetut jäsenet
+## 7 § Äänioikeutetut jäsenet
 
 Puoluekokouksissa on jokaisella varsinaisena jäsenenä olevalla
 yksityishenkilöllä yksi ääni, varsinaisena jäsenenä olevalla yhdistyksellä tai
@@ -158,11 +152,11 @@ Jotta jäsen voi käyttää äänioikeuttaan kokouksessa, hänen on:
 2. maksettava viimeisin laskutettu jäsenmaksu puoluehallituksen ohjeistamalla
    tavalla vähintään kaksi (2) viikkoa ennen kokousta.
 
-## 8. Jäsenten osallistumisoikeudet ja toiminnan avoimuus
+## 8 § Jäsenten osallistumisoikeudet ja toiminnan avoimuus
 
 Puolueen jäsenellä on oikeus:
 
-1. Tehdä jäsenaloitteita sääntöjen 9.:n mukaisesti.
+1. Tehdä jäsenaloitteita sääntöjen 9 §:n mukaisesti.
 2. Tehdä aloitteita puoluevaltuustolle. Aloitteen on saatava ainakin kymmenen
    muun jäsenen tuki.
 3. Tehdä puoluehallitukselle aloitteitaja kirjallisia kysymyksiä ja saada niihin
@@ -177,7 +171,7 @@ puoluevaltuuston pöytäkirjat julkaistaan ajantasaisesti verkossa.
 Puolueen ajantasainen kirjanpito on oltava verkossa nähtävillä siltä osin kuin
 yksityisyyden suoja tai muu vastaava syy ei sitä estä.
 
-## 9. Jäsenaloite
+## 9 § Jäsenaloite
 
 Puolueen jäsenillä on oikeus tehdä jäsenaloitteita. Jäsenaloitteella voidaan
 vaatia päätöksen tekemistä kokouksessa.
@@ -190,12 +184,12 @@ sillä on riittävän monen jäsenen tuki; riittävä määrä on:
 2. yksi kahdeskymmenesosa äänioikeutetuista jäsenistä, jos asia on käsiteltävä
    muutenkin tulevalla puoluekokouksella.
 
-## 10. Puolueen nimen kirjoittaminen
+## 10 § Puolueen nimen kirjoittaminen
 
 Puolueen nimen kirjoittaa puoluehallituksen puheenjohtaja tai varapuheenjohtaja
 kumpikin yksin ja puoluesihteeri ja taloudenhoitaja kaksi yhdessä.
 
-## 11. Tilikausi ja tilintarkastus
+## 11 § Tilikausi ja tilintarkastus
 
 Puolueen tilikausi on kalenterivuosi.
 
@@ -203,7 +197,7 @@ Tilinpäätös tarvittavine asiakirjoineen ja puoluehallituksen vuosikertomus on
 annettava tilintarkastajille viimeistään 15. toukokuuta. Tilintarkastajien tulee
 antaa kirjallinen lausuntonsa viimeistään 30. kesäkuuta puoluehallitukselle.
 
-## 12. Puoluekokoukset
+## 12 § Puoluekokoukset
 
 Puolue pitää varsinaisen kokouksen marras-joulukuussa, 5-60 päivää ennen kunkin
 puoluehallituksen tai -valtuuston toimikauden päättymistä.
@@ -232,7 +226,7 @@ tasan ratkaisee arpa.
 Puoluehallituksen on kutsuttava puoluekokoukset koolle vähintään kuusi viikkoa
 ennen kokousta jäsenille postitetuilla kirjeillä tai sähköpostitse.
 
-## 13. Puoluehallitus
+## 13 § Puoluehallitus
 
 Puolueen asioita hoitaa puoluehallitus, johon kuuluvat valitut puheenjohtaja,
 1-3 varapuheenjohtajaa ja 2-20 muuta varsinaista jäsentä sekä 0-10 varajäsentä.
@@ -258,7 +252,7 @@ puheenjohtaja tai varapuheenjohtaja mukaanluettuna on läsnä. Äänestykset
 ratkaistaan yksinkertaisella äänten enemmistöllä. Äänten mennessä tasan
 ratkaisee puheenjohtajan ääni, vaaleissa kuitenkin arpa.
 
-## 14. Puoluevaltuusto
+## 14 § Puoluevaltuusto
 
 Puoluevaltuuston valitseminen
 
@@ -293,11 +287,11 @@ Puoluevaltuuston tehtävät
 
 Puoluevaltuuston yleisinä tehtävinä on:
 
-1. seurata puoluehallituksen toimintaa ja 8.:ssä tarkoitettujen jäsenten
+1. seurata puoluehallituksen toimintaa ja 8 §:ssä tarkoitettujen jäsenten
    osallistumisoikeuksien ja toiminnan avoimuuden toteutumista,
 2. hyväksyä merkittäviä poliittisia linjauksia ja puolueen poliittisen toiminnan
    kannalta olennaisia päätöksiä,
-3. päättää yhdistyslain 23.:ssä tarkoitetusta kiinteistön luovuttamisesta tai
+3. päättää yhdistyslain 23 §:ssä tarkoitetusta kiinteistön luovuttamisesta tai
    kiinnittämisestä taikka puolueen toiminnan kannalta huomattavan muun
    omaisuuden luovuttamisesta,
 4. tehdä aloitteita puoluekokoukselle ja puoluehallitukselle,
@@ -326,7 +320,7 @@ kokouksessa heinä-joulukuussa.
 Puoluevaltuuston kokous on kutsuttava koolle vähintään kaksi (2) viikkoa
 etukäteen sähköpostitse. Kokouksen koollekutsumisesta päättää puoluevaltuusto
 tai sen puheenjohtaja. Puoluevaltuuston ylimääräinen kokous pidetään, jos
-puoluevaltuusto niin päättää, tai puoluehallitus tai yhdistyslain 21.:ssä
+puoluevaltuusto niin päättää, tai puoluehallitus tai yhdistyslain 21 §:ssä
 tarkoitettu osuus puoluevaltuuston jäsenistä sitä erityisesti ilmoitettua asiaa
 varten kirjallisesti vaatii.
 
@@ -343,7 +337,7 @@ puheenjohtaja tai varapuheenjohtaja mukaanluettuna on läsnä.
 Äänestykset ratkaistaan yksinkertaisella äänten enemmistöllä. Äänten mennessä
 tasan ratkaisee puheenjohtajan ääni, vaaleissa kuitenkin arpa.
 
-## 15. Sovittelulautakunta
+## 15 § Sovittelulautakunta
 
 Puolueella on sovittelulautakunta. Sovittelulautakunnalla on 3-7 jäsentä, jotka
 valitaan puoluekokouksessa.
@@ -367,7 +361,7 @@ Sovittelulautakunnan tehtävänä on:
    Sovittelulautakunnan toimintaa ohjaavat nämä säännöt, puolueen
    sovittelumenettelykäytännöt ja sovittelulautakunnan työjärjestys.
 
-## 16. Piiriyhdistykset
+## 16 § Piiriyhdistykset
 
 Piiriyhdistyksien toiminta-alueena on eduskuntavaalien vaalipiiri tai niiden
 yhdistelmä. Piiriyhdistyksen jäseniä ovat henkilöjäsenet. Piiriyhdistys on
@@ -388,7 +382,7 @@ Piiriyhdistyksen tehtävänä on:
 4. esittää edustaja puoluevaltuustoon,
 5. hoitaa muut puoluehallituksen sille määräämät tehtävät.
 
-## 17. Ehdokkaiden asettaminen vaaleihin
+## 17 § Ehdokkaiden asettaminen vaaleihin
 
 Ehdokkaiden asettamista eduskuntavaaleihin, maakuntavaaleihin, kuntavaaleihin,
 europarlamenttivaaleihin ja presidenttivaaleihin, sekä ehdokkaiden asettamista
@@ -396,7 +390,7 @@ mahdollisiin muihin julkisiin tehtäviin määrätään tarkemmin vaalilaissa.
 
 Mahdollisista vaaliliitoista päättää puoluehallitus.
 
-## 18. Vaalin toteuttaminen
+## 18 § Vaalin toteuttaminen
 
 Silloin kun täytettäviä paikkoja on vainyksi, äänestys toimitetaan
 kaksivaiheisella enemmistövaalitavalla. Jos ensimmäisellä kierroksella kukaan
@@ -422,7 +416,7 @@ suosituimmuusjärjestyksessä. Ehdokkaita voi merkitä yhden tai useamman, mutta
 ja jonka se ilmoittaa äänestykseen osallistuville ennen äänestyksen
 toteuttamista.
 
-## 19. Jäsenen eroaminen ja erottaminen
+## 19 § Jäsenen eroaminen ja erottaminen
 
 Jäsenellä on oikeus erota puolueesta ilmoittamalla siitä kirjallisesti
 puoluehallitukselle tai sen puheenjohtajalle taikka ilmoittamalla erosta
@@ -444,7 +438,7 @@ jäsenaloitteen johdosta.
 
 Samat erottamista koskevat säännöt pätevät kannatusjäseneen.
 
-## 20. Liittymis- ja jäsenmaksu
+## 20 § Liittymis- ja jäsenmaksu
 
 Varsinaisilta jäseniltä ja kannatusjäseniltä perittävän liittymismaksun ja
 vuotuisen jäsenmaksun suuruudesta päättää kummankin jäsenryhmän osalta erikseen
@@ -453,7 +447,7 @@ puoluevaltuusto.
 Varsinaisena jäsenenä oleville paikallisyhdistyksille voidaan määrätä korkeampi
 jäsenmaksu kuin varsinaisina jäseninä oleville yksityishenkilöille.
 
-## 21. Sääntöjen muuttaminen ja puolueen purkaminen
+## 21 § Sääntöjen muuttaminen ja puolueen purkaminen
 
 Päätös sääntöjen tai puolueen kokous- ja äänestysjärjestyksen muuttamisesta ja
 puolueen purkamisesta on tehtävä puoluekokouksessa vähintään kolmen neljäsosan
@@ -464,7 +458,7 @@ Puolueen purkautuessa käytetään puolueen varat puolueen tarkoituksen
 edistämiseen purkamisesta päättävän kokouksen määräämällä tavalla. Puolueen
 tullessa lakkautetuksi käytetään sen varat samaan tarkoitukseen.
 
-## 22. Siirtymäsäännökset
+## 22 § Siirtymäsäännökset
 
 Mikäli nämä säännöt edellyttävät johtosäännön ohjaavan jotain menettelyä, mutta
 kyseinen johtosääntö ei vielä ole tullut voimaan, menetellään 17.11.2018
