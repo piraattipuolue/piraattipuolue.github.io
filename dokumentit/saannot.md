@@ -292,8 +292,7 @@ loppuajaksi.
 
 Puoluevaltuuston yleisinä tehtävinä on:
 
-1. seurata puoluehallituksen toimintaa ja
-   [8 §](#sec:jäsenoikeudet "8 §"){.wikilink}:ssä tarkoitettujen jäsenten
+1. seurata puoluehallituksen toimintaa ja 8 §:ssä tarkoitettujen jäsenten
    osallistumisoikeuksien ja toiminnan avoimuuden toteutumista,
 2. hyväksyä merkittäviä poliittisia linjauksia ja puolueen poliittisen toiminnan
    kannalta olennaisia päätöksiä,
