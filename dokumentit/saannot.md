@@ -4,9 +4,8 @@ permalink: /saannot/
 navigation: true
 ---
 
-# Piraattipuolue r.p.:n säännöt
-
-Voimassaolevat säännöt: 20.04.2023 13:13:18
+(Viimeisimmät muutokset hyväksytty puoluekokouksessa 15.2.2024. Rekisteröity
+PRH:lla tammikuussa 2025.)
 
 <!-- editorconfig-checker-disable -->
 <!-- prettier-ignore-start -->
@@ -24,12 +23,17 @@ Voimassaolevat säännöt: 20.04.2023 13:13:18
 - [8 § Jäsenten osallistumisoikeudet ja toiminnan avoimuus](#8--j%C3%A4senten-osallistumisoikeudet-ja-toiminnan-avoimuus)
 - [9 § Jäsenaloite](#9--j%C3%A4senaloite)
 - [10 § Puolueen nimen kirjoittaminen](#10--puolueen-nimen-kirjoittaminen)
-- [11 § Tilikausi ja tilintarkastus](#11--tilikausi-ja-tilintarkastus)
+- [11 § Tilikausi ja toiminnantarkastus](#11--tilikausi-ja-toiminnantarkastus)
 - [12 § Puoluekokoukset](#12--puoluekokoukset)
 - [13 § Puoluehallitus](#13--puoluehallitus)
 - [14 § Puoluevaltuusto](#14--puoluevaltuusto)
+  - [Puoluevaltuuston valitseminen](#puoluevaltuuston-valitseminen)
+  - [Puoluevaltuuston tehtävät](#puoluevaltuuston-teht%C3%A4v%C3%A4t)
+  - [Puoluevaltuuston koolle kutsuminen](#puoluevaltuuston-koolle-kutsuminen)
+  - [Puoluevaltuuston päätöksenteko](#puoluevaltuuston-p%C3%A4%C3%A4t%C3%B6ksenteko)
 - [15 § Sovittelulautakunta](#15--sovittelulautakunta)
 - [16 § Piiriyhdistykset](#16--piiriyhdistykset)
+  - [Piiriyhdistyksen tehtävät ja toiminta](#piiriyhdistyksen-teht%C3%A4v%C3%A4t-ja-toiminta)
 - [17 § Ehdokkaiden asettaminen vaaleihin](#17--ehdokkaiden-asettaminen-vaaleihin)
 - [18 § Vaalin toteuttaminen](#18--vaalin-toteuttaminen)
 - [19 § Jäsenen eroaminen ja erottaminen](#19--j%C3%A4senen-eroaminen-ja-erottaminen)
@@ -37,7 +41,7 @@ Voimassaolevat säännöt: 20.04.2023 13:13:18
 - [21 § Sääntöjen muuttaminen ja puolueen purkaminen](#21--s%C3%A4%C3%A4nt%C3%B6jen-muuttaminen-ja-puolueen-purkaminen)
 - [22 § Siirtymäsäännökset](#22--siirtym%C3%A4s%C3%A4%C3%A4nn%C3%B6kset)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+<!-- END doctoc -->
 
 <!-- prettier-ignore-end -->
 <!-- editorconfig-checker-enable -->
@@ -189,13 +193,14 @@ sillä on riittävän monen jäsenen tuki; riittävä määrä on:
 Puolueen nimen kirjoittaa puoluehallituksen puheenjohtaja tai varapuheenjohtaja
 kumpikin yksin ja puoluesihteeri ja taloudenhoitaja kaksi yhdessä.
 
-## 11 § Tilikausi ja tilintarkastus
+## 11 § Tilikausi ja toiminnantarkastus
 
 Puolueen tilikausi on kalenterivuosi.
 
 Tilinpäätös tarvittavine asiakirjoineen ja puoluehallituksen vuosikertomus on
-annettava tilintarkastajille viimeistään 15. toukokuuta. Tilintarkastajien tulee
-antaa kirjallinen lausuntonsa viimeistään 30. kesäkuuta puoluehallitukselle.
+annettava toiminnantarkastajille viimeistään 15. toukokuuta.
+Toiminnantarkastajien tulee antaa kirjallinen lausuntonsa viimeistään 30.
+kesäkuuta puoluehallitukselle.
 
 ## 12 § Puoluekokoukset
 
@@ -254,10 +259,10 @@ ratkaisee puheenjohtajan ääni, vaaleissa kuitenkin arpa.
 
 ## 14 § Puoluevaltuusto
 
-Puoluevaltuuston valitseminen
+### Puoluevaltuuston valitseminen
 
 Puolueella on puoluevaltuusto, johon kuuluvat puoluekokouksen valitsemat
-puheenjohtaja, 5-25 varsinaista jäsentä ja 0-50 varajäsentä, sekä
+puheenjohtaja, 2-25 varsinaista jäsentä ja 0-50 varajäsentä, sekä
 piiriyhdistysten esittämät jäsenet ja varajäsenet.
 
 Puoluevaltuuston toimikausi on 2 kalenterivuotta.
@@ -274,20 +279,21 @@ jossa heidät on valittu, eniten ääniä saanut ensin.
 Puoluevaltuusto valitsee keskuudestaan 1-2 varapuheenjohtajaa.
 
 Puoluevaltuuston puheenjohtajana, jäsenenä tai varajäsenenä voi toimia
-ainoastaan puolueen äänioikeutettu jäsen. Puoluehallituksen puheenjohtaja,
-varapuheenjohtaja, jäsen tai varajäsen ei voi toimia puoluevaltuuston
-puheenjohtajana, jäsenenä tai varajäsenenä.
+ainoastaan puolueen äänioikeutettu jäsen. Puoluehallituksen puheenjohtaja tai
+varapuheenjohtaja ei voi toimia puoluevaltuuston puheenjohtajana tai
+varapuheenjohtajana.
 
 Puoluekokouksen valitsema puoluevaltuuston jäsen tai koko puoluevaltuusto
 voidaan puoluekokouksessa vaihtaa, erottaa tai puoluevaltuustoa täydentää
 uusilla jäsenillä myös kesken toimikauden meneillään olevan toimikauden
 loppuajaksi.
 
-Puoluevaltuuston tehtävät
+### Puoluevaltuuston tehtävät
 
 Puoluevaltuuston yleisinä tehtävinä on:
 
-1. seurata puoluehallituksen toimintaa ja 8 §:ssä tarkoitettujen jäsenten
+1. seurata puoluehallituksen toimintaa ja
+   [8 §](#sec:jäsenoikeudet "8 §"){.wikilink}:ssä tarkoitettujen jäsenten
    osallistumisoikeuksien ja toiminnan avoimuuden toteutumista,
 2. hyväksyä merkittäviä poliittisia linjauksia ja puolueen poliittisen toiminnan
    kannalta olennaisia päätöksiä,
@@ -302,16 +308,16 @@ Puoluevaltuuston vuosittaisina tehtävinä on:
 
 1. päättää tilinpäätöksen vahvistamisesta ja vastuuvapauden myöntämisestä
    puoluehallitukselle ja muille vastuuvelvollisille,
-2. valita yksi tai kaksi tilintarkastajaa ja heille varatilintarkastajat tai
-   tilintarkastusyhteisö,
+2. valita yksi tai kaksi toiminnantarkastajaa ja heille
+   varatoiminnantarkastajat,
 3. vahvistaa toimintasuunnitelma ja talousarvio seuraavalle kalenterivuodelle.
 
-Puoluevaltuuston koolle kutsuminen
+### Puoluevaltuuston koolle kutsuminen
 
 Puoluevaltuusto pitää kokouksia tarpeen ja työjärjestyksensä mukaan, vähintään
 kuitenkin kaksi kertaa vuodessa.
 
-Tilintarkastajat valitaan, tilinpäätös vahvistetaan ja vastuuvapaudesta
+Toiminnantarkastajat valitaan, tilinpäätös vahvistetaan ja vastuuvapaudesta
 päätetään puoluevaltuuston kokouksessa heinä-elokuussa.
 
 Toimintasuunnitelman ja talousarvion vahvistaminen tehdään erillisessä
@@ -329,7 +335,7 @@ jäsenellä ja varajäsenellä, puoluesihteerillä, taloudenhoitajalla sekä puo
 kansanedustajilla ja Euroopan parlamentin jäsenillä on puoluevaltuuston
 kokouksissa läsnäolo- ja puheoikeus.
 
-Puoluevaltuuston päätöksenteko
+### Puoluevaltuuston päätöksenteko
 
 Puoluevaltuusto on päätösvaltainen, kun vähintään puolet sen jäsenistä,
 puheenjohtaja tai varapuheenjohtaja mukaanluettuna on läsnä.
@@ -343,7 +349,7 @@ Puolueella on sovittelulautakunta. Sovittelulautakunnalla on 3-7 jäsentä, jotk
 valitaan puoluekokouksessa.
 
 Sovittelulautakunnan jäsenet eivät saa toimia samaan aikaan puoluehallituksen
-tai puoluevaltuuston jäseninä.
+jäseninä tai puoluevaltuuston puheenjohtajistossa.
 
 Sovittelulautakunta ei ole arvojärjestyksessä puoluehallituksen eikä -valtuuston
 ylä- tai alapuolella.
@@ -369,7 +375,7 @@ rekisteröity yhdistys, jonka puoluehallitus hyväksyy jäseneksi. Piiriyhdistyk
 ovat puolueen varsinaisia jäseniä. Puolueeseen liittynyt jäsen voi liittyä
 piiriyhdistykseen asuinpaikkansa mukaan.
 
-Piiriyhdistyksen tehtävät ja toiminta
+### Piiriyhdistyksen tehtävät ja toiminta
 
 Piiriyhdistyksen tehtävänä on:
 
