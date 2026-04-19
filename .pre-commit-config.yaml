@@ -11,7 +11,7 @@ default_language_version:
 
 repos:
   - repo: https://github.com/thlorenz/doctoc
-    rev: v2.3.0
+    rev: v2.4.1
     hooks:
       - id: doctoc
         args: [--update-only, --notitle]
@@ -64,7 +64,7 @@ repos:
         language: system
 
   - repo: https://github.com/editorconfig-checker/editorconfig-checker.python
-    rev: "3.6.0"
+    rev: "3.6.1"
     hooks:
       - id: editorconfig-checker
         alias: ec
