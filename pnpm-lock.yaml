@@ -19,13 +19,13 @@ importers:
         version: 3.4.2(prettier@3.9.6)
       corepack:
         specifier: latest
-        version: 0.35.0
+        version: 0.36.0
       prettier:
         specifier: 3.9.6
         version: 3.9.6
       prettier-plugin-nginx:
-        specifier: 1.0.3
-        version: 1.0.3
+        specifier: 2.0.0
+        version: 2.0.0(prettier@3.9.6)
       prettier-plugin-sh:
         specifier: 0.19.0
         version: 0.19.0(prettier@3.9.6)
@@ -85,13 +85,19 @@ packages:
   chevrotain@7.1.1:
     resolution: {integrity: sha512-wy3mC1x4ye+O+QkEinVJkPf5u2vsrDIYW9G7ZuwFl6v/Yu0LwUuT2POsb+NUWApebyxfkQq6+yDfRExbnI5rcw==}
 
-  corepack@0.35.0:
-    resolution: {integrity: sha512-9BuIGHDFE7Zieor1CeRsvt7X7AJFEuJ6OnbSbsVprq83ChDFoBh1wP98NeUS9FT3ZwlzFllPElXcz/OiDf0YGw==}
+  corepack@0.36.0:
+    resolution: {integrity: sha512-SiiJsBhZqdBiPHTEl6OT3sASrRrKIcYTQMsVGXx6EE/gM8WFMwYjeIX8Tt8RiU4Iv2J6LbT8KpGfCOsBpRWB/w==}
     engines: {node: ^22.22.2 || ^24.15.0 || >=26.0.0}
     hasBin: true
 
   prettier-plugin-nginx@1.0.3:
     resolution: {integrity: sha512-vV5q85s8XnV6NEgvz1gVLfZhmxAxY03MyOYj2ApBpjFkbs00lRsRkTmqO9L39ADuD18z1RRCcfZ3eVxKhI/nqg==}
+
+  prettier-plugin-nginx@2.0.0:
+    resolution: {integrity: sha512-fdSsnlYu1CyVrKNgOjEihIJ/32vdwCR3OOUfYCJ+S/phdzmML97Z6VC5KKHlUWRtzGU2Z2juQOdRMyG0QeO0Ng==}
+    engines: {node: '>=18'}
+    peerDependencies:
+      prettier: ^3.6.0
 
   prettier-plugin-sh@0.18.1:
     resolution: {integrity: sha512-uZmU22wBMevjh3rmCatNQqiEer2+5KLa0xYCBX6zQQUQkcNzVL+s6FbPKK6ZSUNUbQk6jMAcQHrYPvuL2W6ihQ==}
@@ -141,7 +147,7 @@ snapshots:
     dependencies:
       '@prettier/plugin-ruby': 4.0.4(prettier@3.8.4)
       '@prettier/plugin-xml': 3.4.2(prettier@3.8.4)
-      corepack: 0.35.0
+      corepack: 0.36.0
       prettier: 3.8.4
       prettier-plugin-nginx: 1.0.3
       prettier-plugin-sh: 0.18.1(prettier@3.8.4)
@@ -198,9 +204,13 @@ snapshots:
     dependencies:
       regexp-to-ast: 0.5.0
 
-  corepack@0.35.0: {}
+  corepack@0.36.0: {}
 
   prettier-plugin-nginx@1.0.3: {}
+
+  prettier-plugin-nginx@2.0.0(prettier@3.9.6):
+    dependencies:
+      prettier: 3.9.6
 
   prettier-plugin-sh@0.18.1(prettier@3.8.4):
     dependencies:
