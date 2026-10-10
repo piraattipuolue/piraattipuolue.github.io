@@ -13,25 +13,25 @@ importers:
         version: 2026.26.0
       '@prettier/plugin-ruby':
         specifier: 4.0.4
-        version: 4.0.4(prettier@3.9.9)
+        version: 4.0.4(prettier@3.9.10)
       '@prettier/plugin-xml':
         specifier: 3.4.2
-        version: 3.4.2(prettier@3.9.9)
+        version: 3.4.2(prettier@3.9.10)
       corepack:
         specifier: latest
         version: 0.36.0
       prettier:
-        specifier: 3.9.9
-        version: 3.9.9
+        specifier: 3.9.10
+        version: 3.9.10
       prettier-plugin-nginx:
         specifier: 2.0.0
-        version: 2.0.0(prettier@3.9.9)
+        version: 2.0.0(prettier@3.9.10)
       prettier-plugin-sh:
         specifier: 0.20.2
-        version: 0.20.2(prettier@3.9.9)
+        version: 0.20.2(prettier@3.9.10)
       prettier-plugin-toml:
         specifier: 3.0.2
-        version: 3.0.2(prettier@3.9.9)
+        version: 3.0.2(prettier@3.9.10)
 
 packages:
 
@@ -134,8 +134,8 @@ packages:
     engines: {node: '>=14'}
     hasBin: true
 
-  prettier@3.9.9:
-    resolution: {integrity: sha512-Z/CJHIkdujO/OtN7nXUii0Rf3VT5SRuhjBA82Xvu2XhBUgX3nhP67T0LHceBdQLex7OOFGTox+Q5Yg8Jk2Qivg==}
+  prettier@3.9.10:
+    resolution: {integrity: sha512-skGHTH1Yb9QvaTC4hWnRTzEYtCpApF0UMBPz+t/0ZPzP8ihefo/btKd+QA7pUE0fEwA1SbS/NmhyEcstdXOIdA==}
     engines: {node: '>=14'}
     hasBin: true
 
@@ -175,19 +175,19 @@ snapshots:
     dependencies:
       prettier: 3.8.4
 
-  '@prettier/plugin-ruby@4.0.4(prettier@3.9.9)':
+  '@prettier/plugin-ruby@4.0.4(prettier@3.9.10)':
     dependencies:
-      prettier: 3.9.9
+      prettier: 3.9.10
 
   '@prettier/plugin-xml@3.4.2(prettier@3.8.4)':
     dependencies:
       '@xml-tools/parser': 1.0.11
       prettier: 3.8.4
 
-  '@prettier/plugin-xml@3.4.2(prettier@3.9.9)':
+  '@prettier/plugin-xml@3.4.2(prettier@3.9.10)':
     dependencies:
       '@xml-tools/parser': 1.0.11
-      prettier: 3.9.9
+      prettier: 3.9.10
 
   '@reteps/dockerfmt-darwin-arm64@0.5.4':
     optional: true
@@ -228,9 +228,9 @@ snapshots:
 
   prettier-plugin-nginx@1.0.3: {}
 
-  prettier-plugin-nginx@2.0.0(prettier@3.9.9):
+  prettier-plugin-nginx@2.0.0(prettier@3.9.10):
     dependencies:
-      prettier: 3.9.9
+      prettier: 3.9.10
 
   prettier-plugin-sh@0.18.1(prettier@3.8.4):
     dependencies:
@@ -238,10 +238,10 @@ snapshots:
       prettier: 3.8.4
       sh-syntax: 0.5.8
 
-  prettier-plugin-sh@0.20.2(prettier@3.9.9):
+  prettier-plugin-sh@0.20.2(prettier@3.9.10):
     dependencies:
       '@reteps/dockerfmt': 0.5.4
-      prettier: 3.9.9
+      prettier: 3.9.10
       sh-syntax: 0.7.0
 
   prettier-plugin-toml@2.0.6(prettier@3.8.4):
@@ -249,16 +249,16 @@ snapshots:
       '@taplo/lib': 0.5.0
       prettier: 3.8.4
 
-  prettier-plugin-toml@3.0.2(prettier@3.9.9):
+  prettier-plugin-toml@3.0.2(prettier@3.9.10):
     dependencies:
       '@dual-bundle/import-meta-resolve': 4.2.1
       '@tombi-toml/wasm-lib': 1.5.5
-      prettier: 3.9.9
+      prettier: 3.9.10
       smol-toml: 1.9.0
 
   prettier@3.8.4: {}
 
-  prettier@3.9.9: {}
+  prettier@3.9.10: {}
 
   regexp-to-ast@0.5.0: {}
 
